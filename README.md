@@ -1,6 +1,6 @@
 # SnakeArena
 
-基于 PyGame 的贪吃蛇游戏，支持人类操控与多种 AI 控制器，并提供评估不同算法性能的【测试脚本】。
+基于 PyGame 的贪吃蛇游戏，支持人类操控与多种 AI 控制器，并提供评估不同算法性能的批量测试脚本
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)![Pygame|90](https://img.shields.io/badge/Pygame-2.0%2B-green)
 
@@ -79,9 +79,7 @@ BFS        | avg_score:  102.6 | max_score: 177 | avg_compute_time_ms:  0.299
 
 结果文件包含每局详细记录（随机种子、分数、步数等），以及控制器汇总统计。
 
-### 自定义测试脚本
-
-编辑 `benchmark.py` 中的配置：
+可通过编辑 `benchmark.py` 中的配置自定义测试脚本：
 
 - `NUM_GAMES_PER_CONTROLLER`：每个控制器运行的局数
 - `MAX_STEPS`：单局最大步数（中断死循环）
@@ -103,8 +101,9 @@ class MyController(Controller):
         # 返回移动方向 (dr, dc) \in \{(1,0), (-1,0), (0,1), (0,-1)\}
         return (0, 1)
 ```
+完成后就即可选择自己的控制器操控贪吃蛇
 
-`Controller` 类中给出了若干辅助函数，如：
+`Controller` 类中也给出了若干辅助函数，如：
 - `get_valid_dir(self, game_state)`：返回所有可行方向的列表
 - `bold_react(self, game_state, target)`：从可行方向中返回最靠近 `target` 的方向
 
@@ -123,18 +122,17 @@ class MyController(Controller):
 
 ---
 
-### 日志
+### 开发日志
 
-#### v0.1.0 - 2026-04-22 
-
-- 单人游戏基本逻辑架构
-- 实现模块化 `Controller`，加入`HumanController`，`DrunkController`，`GreedyController`
-- 实现基于 Pygame 的游戏渲染界面
-
-#### v0.1.1 - 2026-04-23
-- 加入 `BFSController`
-
-#### v0.2.0 - 2026-05-12
+#### v0.2.0_2026-05-12
 - 优化数据结构，加入 `GameState`，`GameResult` 等数据结构类
 - 优化逻辑架构，加入 `run_game` 函数实现游戏进程的封装
 - 实现批量测试脚本 `benchmark.py`
+
+#### v0.1.1_2026-04-23
+- 加入 `BFSController`
+
+#### v0.1.0_2026-04-22 
+- 单人游戏基本逻辑架构
+- 实现模块化 `Controller`，加入`HumanController`，`DrunkController`，`GreedyController`
+- 实现基于 Pygame 的游戏渲染界面
