@@ -1,21 +1,140 @@
-### SnakeArena
+# SnakeArena
 
-### 基本架构
-- `main.py`：带图形界面的主函数，串联游戏元素与流程
-- `ui.py`：界面图形文件
-- `config`：基本参数文件
-- `Snake` 类：用于蛇的生成、移动与碰撞判定，储存当前位置和蛇身构成（使用双端队列）
-- `Game` 类：单人游戏的场景，负责生成蛇与食物、接收 `Controller` 每一帧的操作并在场景上演算
-- `Controller` 类：含 `HumanController`、`DrunkController`、`GreedyController` 等，提供用户操作的接口与各种 AI 算法的封装
+基于 PyGame 的贪吃蛇游戏，支持人类操控与多种 AI 控制器，并提供评估不同算法性能的【测试脚本】。
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)![Pygame|90](https://img.shields.io/badge/Pygame-2.0%2B-green)
+
+---
+
+### 基本功能
+
+- 经典贪吃蛇核心玩法
+- 内置多种控制器，模块化设计，轻松加入新算法：
+	- `HumanController`：人类键盘操作
+	- `DrunkController`：随机选择可行方向
+	- `GreedyController`：选择最靠近食物的可行方向
+	- `BFSController`：BFS 寻路
+- 提供展示游戏进程的【渲染模式】与可用于批量测试的【无头模式】
+- 【测试脚本】导出 JSON / CSV 文件，可统计 AI 算法的平均分、每步计算耗时等数据
+
+---
+
+### 项目结构
+
+```
+snake_arena/
+├── main.py               # 【渲染模式】入口
+├── benchmark.py          # 【测试脚本】入口
+├── runner.py             # 单局游戏运行函数
+├── game.py               # 游戏逻辑（蛇更新、食物更新、碰撞检测等）
+├── snake.py              # 蛇类（身体位置分布等）
+├── controller.py         # 控制器基类及多种具体控制器算法
+├── ui.py                 # 绘图函数（网格、蛇、食物、文字等）
+├── config.py             # 全局配置（窗口大小、颜色、帧率等）
+├── results/              # 测试结果文件
+│   ├── benchmark_*.json
+│   └── benchmark_*.csv
+└── README.md
+
+```
+
+---
+
+### 测试脚本
+
+对多种控制器进行批量无头测试，统计平均分、每步耗时等数据
+
+```bash
+python benchmark.py
+```
+
+输出示例：
+
+```text
+Running DrunkController... (100 games)
+[Drunk]   #001   score:    2.0   steps:   5010   avg_compute_time_ms:  0.002   max_steps_reached: False
+[Drunk]   #002   score:    4.0   steps:   4653   avg_compute_time_ms:  0.002   max_steps_reached: False
+...
+[Drunk]   #100   score:    3.0   steps:   4551   avg_compute_time_ms:  0.003   max_steps_reached: False
+
+Running GreedyController... (100 games)
+[Greedy]  #001   score:   53.0   steps:   1162   avg_compute_time_ms:  0.005   max_steps_reached: False
+[Greedy]  #002   score:   59.0   steps:   1415   avg_compute_time_ms:  0.005   max_steps_reached: False
+...
+[Greedy]  #100   score:   51.0   steps:   1108   avg_compute_time_ms:  0.004   max_steps_reached: False
+
+Running BFSController... (100 games)
+[BFS]     #001   score:  115.0   steps:   2548   avg_compute_time_ms:  0.251   max_steps_reached: False
+[BFS]     #002   score:  103.0   steps:   2625   avg_compute_time_ms:  0.285   max_steps_reached: False
+...
+[BFS]     #100   score:  153.0   steps:   3712   avg_compute_time_ms:  0.319   max_steps_reached: False
+
+Benchmark results saved to "results\benchmark_20260512_195202.json" and "results\benchmark_20260512_195202.csv"
+
+=== Summary ===
+Drunk      | avg_score:    3.7 | max_score:   7 | avg_compute_time_ms:  0.002
+Greedy     | avg_score:   41.9 | max_score:  77 | avg_compute_time_ms:  0.004
+BFS        | avg_score:  102.6 | max_score: 177 | avg_compute_time_ms:  0.299
+```
+
+结果文件包含每局详细记录（随机种子、分数、步数等），以及控制器汇总统计。
+
+### 自定义测试脚本
+
+编辑 `benchmark.py` 中的配置：
+
+- `NUM_GAMES_PER_CONTROLLER`：每个控制器运行的局数
+- `MAX_STEPS`：单局最大步数（中断死循环）
+- `SEED_OFFSET`：随机种子平移
+- `RESULTS_DIR`：结果文件目录
+- `CONTROLLERS`：待测试控制器列表
+
+---
+
+### 模块化控制器的开发
+
+所有控制器需继承 `controller.py` 中的 `Controller` 类并定义 `react(self, game_state, events)` 函数：
+
+```python
+class MyController(Controller):
+    def react(self, game_state, events):
+        # game_state 定义详见 game.py
+        # events 为 Pygame 事件列表（无头模式下为空列表）
+        # 返回移动方向 (dr, dc) \in \{(1,0), (-1,0), (0,1), (0,-1)\}
+        return (0, 1)
+```
+
+`Controller` 类中给出了若干辅助函数，如：
+- `get_valid_dir(self, game_state)`：返回所有可行方向的列表
+- `bold_react(self, game_state, target)`：从可行方向中返回最靠近 `target` 的方向
+
+---
+
+### 配置说明
+
+在 `config.py` 中可以调整：
+
+- `GRID_SIZE`：网格边长
+- `LOGIC_FPS`：逻辑帧率
+- `RENDER_FPS`：渲染帧率
+- `INITIAL_LEN`：初始蛇长
+
+> 无头模式下 `LOGIC_FPS` 不生效，游戏以最快速度运行。
+
+---
 
 ### 日志
 
-#### 2026-04-22 SnakeArena_v0.1
+#### v0.1.0 - 2026-04-22 
 
-完成单人游戏的基本架构，并加入三种 `Controller`
-- `HumanController`：接收用户的上下左右键操作；不允许转向当前方向的相反方向
-- `DrunkController`：随机选取不会在下一步死亡的操作（可行操作）；都会死亡则认命
-- `GreedyController`：总是尽可能朝向食物行动（在可行操作中选取与食物方向向量点积最大的操作）
+- 单人游戏基本逻辑架构
+- 实现模块化 `Controller`，加入`HumanController`，`DrunkController`，`GreedyController`
+- 实现基于 Pygame 的游戏渲染界面
 
-#### 2026-05-12 SnakeArena_v0.2
+#### v0.1.1 - 2026-04-23
+- 加入 `BFSController`
 
+#### v0.2.0 - 2026-05-12
+- 优化数据结构，加入 `GameState`，`GameResult` 等数据结构类
+- 优化逻辑架构，加入 `run_game` 函数实现游戏进程的封装
+- 实现批量测试脚本 `benchmark.py`

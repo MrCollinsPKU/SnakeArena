@@ -10,7 +10,7 @@ from runner import run_game
 import config
 
 '''============================ CONFIGURATIONS ==============================='''
-NUM_GAMES_PER_CONTROLLER = 10
+NUM_GAMES_PER_CONTROLLER = 100
 MAX_STEPS = 10000                   # max steps for each game
 SEED_OFFSET = 0                     # for game_i, seed = SEED_OFFSET + i
 RESULTS_DIR = Path("results")
@@ -143,7 +143,7 @@ def main():
     stats_list = []
     
     for name, ctrl_class in CONTROLLERS:
-        print(f"\nRunning {name}... ({NUM_GAMES_PER_CONTROLLER} games)")
+        print(f"\nRunning {name}Controller... ({NUM_GAMES_PER_CONTROLLER} games)")
         records = run_controller(ctrl_class, name, NUM_GAMES_PER_CONTROLLER, MAX_STEPS, SEED_OFFSET)
         all_records.extend(records)
         stats = compute_stats(records)
