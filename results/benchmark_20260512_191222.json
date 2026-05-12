@@ -1,0 +1,282 @@
+{
+  "records": [
+    {
+      "controller_name": "Drunk",
+      "seed": 0,
+      "score": 2,
+      "steps": 5010,
+      "avg_compute_time_ms": 0.0020839321369910653,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 1,
+      "score": 4,
+      "steps": 4653,
+      "avg_compute_time_ms": 0.001962626263063475,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 2,
+      "score": 5,
+      "steps": 8901,
+      "avg_compute_time_ms": 0.002268014830393094,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 3,
+      "score": 6,
+      "steps": 9246,
+      "avg_compute_time_ms": 0.0020706251360521856,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 4,
+      "score": 3,
+      "steps": 10000,
+      "avg_compute_time_ms": 0.0019389999993791205,
+      "max_steps_reached": true
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 5,
+      "score": 4,
+      "steps": 3734,
+      "avg_compute_time_ms": 0.002158328870435979,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 6,
+      "score": 4,
+      "steps": 6423,
+      "avg_compute_time_ms": 0.0020404950984690665,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 7,
+      "score": 7,
+      "steps": 1093,
+      "avg_compute_time_ms": 0.002219213172390648,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 8,
+      "score": 3,
+      "steps": 2754,
+      "avg_compute_time_ms": 0.0020099491639788596,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 9,
+      "score": 2,
+      "steps": 5356,
+      "avg_compute_time_ms": 0.0020182598963047805,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 0,
+      "score": 53,
+      "steps": 1162,
+      "avg_compute_time_ms": 0.003965146302631721,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 1,
+      "score": 59,
+      "steps": 1415,
+      "avg_compute_time_ms": 0.0040959010571131335,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 2,
+      "score": 34,
+      "steps": 663,
+      "avg_compute_time_ms": 0.0032518853743541826,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 3,
+      "score": 35,
+      "steps": 894,
+      "avg_compute_time_ms": 0.003439821031639578,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 4,
+      "score": 28,
+      "steps": 534,
+      "avg_compute_time_ms": 0.0035996254636326028,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 5,
+      "score": 50,
+      "steps": 1178,
+      "avg_compute_time_ms": 0.003832427848429643,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 6,
+      "score": 32,
+      "steps": 722,
+      "avg_compute_time_ms": 0.003982271473269015,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 7,
+      "score": 43,
+      "steps": 988,
+      "avg_compute_time_ms": 0.003568421049973916,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 8,
+      "score": 10,
+      "steps": 187,
+      "avg_compute_time_ms": 0.0025165775363065984,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 9,
+      "score": 60,
+      "steps": 1486,
+      "avg_compute_time_ms": 0.004464468369177046,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 0,
+      "score": 115,
+      "steps": 2548,
+      "avg_compute_time_ms": 0.2374792386182434,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 1,
+      "score": 103,
+      "steps": 2625,
+      "avg_compute_time_ms": 0.28341409523861893,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 2,
+      "score": 69,
+      "steps": 1486,
+      "avg_compute_time_ms": 0.26077489905914686,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 3,
+      "score": 114,
+      "steps": 2530,
+      "avg_compute_time_ms": 0.24810877470320233,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 4,
+      "score": 141,
+      "steps": 3836,
+      "avg_compute_time_ms": 0.2758447862398413,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 5,
+      "score": 143,
+      "steps": 3463,
+      "avg_compute_time_ms": 0.27605604966740094,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 6,
+      "score": 112,
+      "steps": 2736,
+      "avg_compute_time_ms": 0.26094828216241295,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 7,
+      "score": 112,
+      "steps": 2914,
+      "avg_compute_time_ms": 0.27463949896562806,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 8,
+      "score": 132,
+      "steps": 3355,
+      "avg_compute_time_ms": 0.26037284649615433,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 9,
+      "score": 107,
+      "steps": 2403,
+      "avg_compute_time_ms": 0.2505315855180066,
+      "max_steps_reached": false
+    }
+  ],
+  "stats": [
+    {
+      "controller_name": "Drunk",
+      "num_games": 10,
+      "avg_score": 4.0,
+      "max_score": 7,
+      "min_score": 2,
+      "avg_steps": 5717.0,
+      "avg_compute_time_ms": 0.0020770444567458275,
+      "timeout_rate": 0.1
+    },
+    {
+      "controller_name": "Greedy",
+      "num_games": 10,
+      "avg_score": 40.4,
+      "max_score": 60,
+      "min_score": 10,
+      "avg_steps": 922.9,
+      "avg_compute_time_ms": 0.0036716545506527433,
+      "timeout_rate": 0.0
+    },
+    {
+      "controller_name": "BFS",
+      "num_games": 10,
+      "avg_score": 114.8,
+      "max_score": 143,
+      "min_score": 69,
+      "avg_steps": 2789.6,
+      "avg_compute_time_ms": 0.2628170056668656,
+      "timeout_rate": 0.0
+    }
+  ],
+  "config": {
+    "grid_size": 30,
+    "num_games_per_controller": 10,
+    "max_steps": 10000,
+    "seed_offset": 0
+  }
+}
