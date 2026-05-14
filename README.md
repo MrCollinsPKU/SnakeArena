@@ -9,11 +9,11 @@
 ### 基本功能
 
 - 经典贪吃蛇核心玩法
-- 内置多种控制器，模块化设计，轻松加入新算法：
+- 内置多种模块化的控制器，接口清晰易加新：
 	- `HumanController`：人类键盘操作
 	- `DrunkController`：随机选择可行方向
 	- `GreedyController`：选择最靠近食物的可行方向
-	- `BFSController`：BFS 寻路
+	- `BFSController`：BFS 寻路策略
 - 提供展示游戏进程的【渲染模式】与可用于批量测试的【无头模式】
 - 【测试脚本】导出 JSON / CSV 文件，可统计 AI 算法的平均分、每步计算耗时等数据
 
@@ -23,19 +23,22 @@
 
 ```
 snake_arena/
-├── main.py               # 【渲染模式】入口
-├── benchmark.py          # 【测试脚本】入口
-├── runner.py             # 单局游戏运行函数
-├── game.py               # 游戏逻辑（蛇更新、食物更新、碰撞检测等）
-├── snake.py              # 蛇类（身体位置分布等）
-├── controller.py         # 控制器基类及多种具体控制器算法
-├── ui.py                 # 绘图函数（网格、蛇、食物、文字等）
-├── config.py             # 全局配置（窗口大小、颜色、帧率等）
-├── results/              # 测试结果文件
-│   ├── benchmark_*.json
-│   └── benchmark_*.csv
+├── assets/
+│   └── fonts/
+│       └── T.ttf
+├── results/                    # 测试结果文件
+│   ├── benchmark_*.csv
+│   └── benchmark_*.json
+├── src/
+│   ├── benchmark.py            # 【测试脚本】入口
+│   ├── config.py               # 全局配置（窗口大小、帧率等）
+│   ├── controller.py           # 控制器基类及多种具体控制器算法
+│   ├── game.py                 # 游戏逻辑（蛇更新、食物更新、碰撞检测等）
+│   ├── main.py                 # 【渲染模式】入口
+│   ├── runner.py               # 单局游戏运行函数
+│   ├── snake.py                # 蛇类（身体位置分布等）
+│   └── ui.py                   # 绘图函数（网格、蛇、食物、文字等）
 └── README.md
-
 ```
 
 ---
@@ -44,8 +47,8 @@ snake_arena/
 
 对多种控制器进行批量无头测试，统计平均分、每步耗时等数据
 
-```bash
-python benchmark.py
+```
+SnakeArena/src/benchmark.py
 ```
 
 输出示例：
@@ -123,6 +126,9 @@ class MyController(Controller):
 ---
 
 ### 开发日志
+
+#### v0.2.1_2026-05-14
+- 更新 UI，加入信息栏
 
 #### v0.2.0_2026-05-12
 - 优化数据结构，加入 `GameState`，`GameResult` 等数据结构类

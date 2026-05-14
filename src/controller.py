@@ -9,13 +9,27 @@ class Controller():
     def react(self, game_state, events):
         pass
     
+    def would_collide(self, game_state, new_head, ignore_tail=False):
+        # ignore_tail: treat the current tail as empty (when not eating food)
+        snake = game_state.snake
+
+        # Boundary
+        if not (0 <= new_head[0] < game_state.grid_size and 0 <= new_head[1] < game_state.grid_size):
+            return True
+        
+        # Self collision
+        body_set = snake.get_body_set()
+        if ignore_tail:
+            body_set.discard(snake.tail)
+        return new_head in body_set
+    
     def get_valid_dir(self, game_state):
         snake = game_state.snake
         valid = []
         for dr, dc in ((0,1),(0,-1),(1,0),(-1,0)):
             new_head = (snake.head[0] + dr, snake.head[1] + dc)
             ignore_tail = new_head != game_state.food_pos
-            if not snake.would_collide(new_head, ignore_tail):
+            if not self.would_collide(game_state, new_head, ignore_tail):
                 valid.append((dr,dc))
         return valid
     

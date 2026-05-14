@@ -11,7 +11,7 @@ def main():
 
     while True:
         ''' Run game '''
-        game_result = run_game(ctrl, screen=screen, clock=clock)
+        game_result = run_game(ctrl, grid_size=30, screen=screen, clock=clock)
         
         ''' Game over '''
         draw_game_over(screen)

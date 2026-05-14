@@ -11,9 +11,11 @@ import config
 
 '''============================ CONFIGURATIONS ==============================='''
 NUM_GAMES_PER_CONTROLLER = 100
+GRID_SIZE = 30
 MAX_STEPS = 10000                   # max steps for each game
 SEED_OFFSET = 0                     # for game_i, seed = SEED_OFFSET + i
-RESULTS_DIR = Path("results")
+RESULTS_DIR = Path(__file__).parent.parent / "results"
+RESULTS_DIR.mkdir(exist_ok=True)
 CONTROLLERS = [
     ("Drunk", DrunkController),
     ("Greedy", GreedyController),
@@ -55,7 +57,7 @@ def run_controller(controller_class: Type, controller_name: str, num_games: int,
         seed = i + seed_offset
         ctrl = controller_class() # instantiate a new controller for each game
 
-        game_result = run_game(ctrl, screen=None, seed=seed, max_steps=max_steps)
+        game_result = run_game(ctrl, grid_size=GRID_SIZE, screen=None, seed=seed, max_steps=max_steps)
 
         score, steps, avg_compute_time_ms = game_result.score, game_result.steps, game_result.avg_compute_time_ms
         max_steps_reached = (steps >= max_steps)
@@ -112,7 +114,7 @@ def save_results(all_records: List[GameRecord], stats_list: List[ControllerStats
             "records": [asdict(r) for r in all_records],
             "stats": [asdict(s) for s in stats_list],
             "config": {
-                "grid_size": config.GRID_SIZE,
+                "grid_size": GRID_SIZE,
                 "num_games_per_controller": NUM_GAMES_PER_CONTROLLER,
                 "max_steps": MAX_STEPS,
                 "seed_offset": SEED_OFFSET
