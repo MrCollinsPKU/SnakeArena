@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "controller_name": "Wander",
+      "seed": 0,
+      "score": 17,
+      "steps": 8095,
+      "avg_compute_time_ms": 0.002549153816189624,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 1,
+      "score": 21,
+      "steps": 8095,
+      "avg_compute_time_ms": 0.0025168869755066324,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 2,
+      "score": 10,
+      "steps": 8095,
+      "avg_compute_time_ms": 0.002209462603193738,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 3,
+      "score": 17,
+      "steps": 8095,
+      "avg_compute_time_ms": 0.0024011241583227812,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 4,
+      "score": 12,
+      "steps": 8095,
+      "avg_compute_time_ms": 0.0022943791746906244,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 5,
+      "score": 19,
+      "steps": 8095,
+      "avg_compute_time_ms": 0.0026324274405043796,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 6,
+      "score": 18,
+      "steps": 8095,
+      "avg_compute_time_ms": 0.0026006918067458863,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 7,
+      "score": 12,
+      "steps": 8095,
+      "avg_compute_time_ms": 0.002240247091774871,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 8,
+      "score": 14,
+      "steps": 8095,
+      "avg_compute_time_ms": 0.0023521432844194837,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 9,
+      "score": 16,
+      "steps": 8095,
+      "avg_compute_time_ms": 0.00241851765183396,
+      "max_steps_reached": false
+    }
+  ],
+  "stats": [
+    {
+      "controller_name": "Wander",
+      "num_games": 10,
+      "avg_score": 15.6,
+      "max_score": 21,
+      "min_score": 10,
+      "avg_steps": 8095.0,
+      "avg_compute_time_ms": 0.002421503400318198,
+      "timeout_rate": 0.0
+    }
+  ],
+  "config": {
+    "grid_size": 29,
+    "num_games_per_controller": 10,
+    "max_steps": null,
+    "seed_offset": 0
+  }
+}

@@ -1,0 +1,4832 @@
+{
+  "records": [
+    {
+      "controller_name": "BFS",
+      "seed": 0,
+      "score": 57,
+      "steps": 765,
+      "avg_compute_time_ms": 0.028924967274161092,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 1,
+      "score": 43,
+      "steps": 498,
+      "avg_compute_time_ms": 0.027568875298878352,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 2,
+      "score": 37,
+      "steps": 368,
+      "avg_compute_time_ms": 0.02835679286205129,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 3,
+      "score": 33,
+      "steps": 377,
+      "avg_compute_time_ms": 0.027296816623233636,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 4,
+      "score": 47,
+      "steps": 581,
+      "avg_compute_time_ms": 0.04249621338869017,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 5,
+      "score": 37,
+      "steps": 452,
+      "avg_compute_time_ms": 0.040059955745566624,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 6,
+      "score": 49,
+      "steps": 618,
+      "avg_compute_time_ms": 0.026379611640211652,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 7,
+      "score": 34,
+      "steps": 359,
+      "avg_compute_time_ms": 0.026261280900422575,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 8,
+      "score": 54,
+      "steps": 656,
+      "avg_compute_time_ms": 0.029303201300513695,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 9,
+      "score": 45,
+      "steps": 533,
+      "avg_compute_time_ms": 0.027832082588720095,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 10,
+      "score": 70,
+      "steps": 1016,
+      "avg_compute_time_ms": 0.03061860241889624,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 11,
+      "score": 36,
+      "steps": 397,
+      "avg_compute_time_ms": 0.026734005426694768,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 12,
+      "score": 41,
+      "steps": 456,
+      "avg_compute_time_ms": 0.02600877253331546,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 13,
+      "score": 50,
+      "steps": 604,
+      "avg_compute_time_ms": 0.02930364285291956,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 14,
+      "score": 45,
+      "steps": 494,
+      "avg_compute_time_ms": 0.026746761128740002,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 15,
+      "score": 40,
+      "steps": 445,
+      "avg_compute_time_ms": 0.02688808969007491,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 16,
+      "score": 35,
+      "steps": 387,
+      "avg_compute_time_ms": 0.03026020682316986,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 17,
+      "score": 60,
+      "steps": 761,
+      "avg_compute_time_ms": 0.02775151105019363,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 18,
+      "score": 58,
+      "steps": 805,
+      "avg_compute_time_ms": 0.02889180133301441,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 19,
+      "score": 34,
+      "steps": 364,
+      "avg_compute_time_ms": 0.025473352282430854,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 20,
+      "score": 45,
+      "steps": 499,
+      "avg_compute_time_ms": 0.02748396852798387,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 21,
+      "score": 43,
+      "steps": 539,
+      "avg_compute_time_ms": 0.03129962898906604,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 22,
+      "score": 49,
+      "steps": 627,
+      "avg_compute_time_ms": 0.026115470752825564,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 23,
+      "score": 46,
+      "steps": 514,
+      "avg_compute_time_ms": 0.027219649831898483,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 24,
+      "score": 48,
+      "steps": 611,
+      "avg_compute_time_ms": 0.030340261561315928,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 25,
+      "score": 54,
+      "steps": 683,
+      "avg_compute_time_ms": 0.03106515350670446,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 26,
+      "score": 40,
+      "steps": 460,
+      "avg_compute_time_ms": 0.027834348103446562,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 27,
+      "score": 63,
+      "steps": 828,
+      "avg_compute_time_ms": 0.02920458965767782,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 28,
+      "score": 48,
+      "steps": 560,
+      "avg_compute_time_ms": 0.02890053609527448,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 29,
+      "score": 49,
+      "steps": 586,
+      "avg_compute_time_ms": 0.030242833098294945,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 30,
+      "score": 57,
+      "steps": 648,
+      "avg_compute_time_ms": 0.023922067842328414,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 31,
+      "score": 56,
+      "steps": 712,
+      "avg_compute_time_ms": 0.03017317390054977,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 32,
+      "score": 35,
+      "steps": 403,
+      "avg_compute_time_ms": 0.028348883738736657,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 33,
+      "score": 49,
+      "steps": 625,
+      "avg_compute_time_ms": 0.028047840157523752,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 34,
+      "score": 36,
+      "steps": 404,
+      "avg_compute_time_ms": 0.026769059692050727,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 35,
+      "score": 24,
+      "steps": 232,
+      "avg_compute_time_ms": 0.023776724729345756,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 36,
+      "score": 67,
+      "steps": 800,
+      "avg_compute_time_ms": 0.02385262447205605,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 37,
+      "score": 62,
+      "steps": 831,
+      "avg_compute_time_ms": 0.02958002416111605,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 38,
+      "score": 44,
+      "steps": 577,
+      "avg_compute_time_ms": 0.03013743519011491,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 39,
+      "score": 30,
+      "steps": 326,
+      "avg_compute_time_ms": 0.028968711326147308,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 40,
+      "score": 51,
+      "steps": 656,
+      "avg_compute_time_ms": 0.032077286671598655,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 41,
+      "score": 49,
+      "steps": 539,
+      "avg_compute_time_ms": 0.02780426723959446,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 42,
+      "score": 36,
+      "steps": 358,
+      "avg_compute_time_ms": 0.023241341626206568,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 43,
+      "score": 50,
+      "steps": 613,
+      "avg_compute_time_ms": 0.02709575864177981,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 44,
+      "score": 54,
+      "steps": 640,
+      "avg_compute_time_ms": 0.02414531275007903,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 45,
+      "score": 57,
+      "steps": 771,
+      "avg_compute_time_ms": 0.029663034663722884,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 46,
+      "score": 58,
+      "steps": 815,
+      "avg_compute_time_ms": 0.03166662590175387,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 47,
+      "score": 36,
+      "steps": 395,
+      "avg_compute_time_ms": 0.02377696204164266,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 48,
+      "score": 63,
+      "steps": 717,
+      "avg_compute_time_ms": 0.02663779637329488,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 49,
+      "score": 50,
+      "steps": 540,
+      "avg_compute_time_ms": 0.02578351863862567,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 50,
+      "score": 38,
+      "steps": 496,
+      "avg_compute_time_ms": 0.02960483855150092,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 51,
+      "score": 30,
+      "steps": 345,
+      "avg_compute_time_ms": 0.029924348253162876,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 52,
+      "score": 42,
+      "steps": 478,
+      "avg_compute_time_ms": 0.02566213342292959,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 53,
+      "score": 48,
+      "steps": 525,
+      "avg_compute_time_ms": 0.027296190660092094,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 54,
+      "score": 55,
+      "steps": 745,
+      "avg_compute_time_ms": 0.03232093976776197,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 55,
+      "score": 22,
+      "steps": 213,
+      "avg_compute_time_ms": 0.02434976579853172,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 56,
+      "score": 63,
+      "steps": 849,
+      "avg_compute_time_ms": 0.028389163737764497,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 57,
+      "score": 40,
+      "steps": 450,
+      "avg_compute_time_ms": 0.0286613334578255,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 58,
+      "score": 41,
+      "steps": 442,
+      "avg_compute_time_ms": 0.0253273752951,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 59,
+      "score": 62,
+      "steps": 881,
+      "avg_compute_time_ms": 0.029466401748084355,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 60,
+      "score": 44,
+      "steps": 515,
+      "avg_compute_time_ms": 0.03148427168675924,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 61,
+      "score": 43,
+      "steps": 465,
+      "avg_compute_time_ms": 0.02987870933382862,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 62,
+      "score": 32,
+      "steps": 412,
+      "avg_compute_time_ms": 0.032472330257432194,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 63,
+      "score": 51,
+      "steps": 618,
+      "avg_compute_time_ms": 0.029360841297390826,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 64,
+      "score": 41,
+      "steps": 442,
+      "avg_compute_time_ms": 0.02633031726049942,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 65,
+      "score": 24,
+      "steps": 249,
+      "avg_compute_time_ms": 0.031180722051277664,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 66,
+      "score": 52,
+      "steps": 704,
+      "avg_compute_time_ms": 0.030133807037848535,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 67,
+      "score": 26,
+      "steps": 277,
+      "avg_compute_time_ms": 0.02624115536606363,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 68,
+      "score": 38,
+      "steps": 382,
+      "avg_compute_time_ms": 0.024675392604881594,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 69,
+      "score": 33,
+      "steps": 336,
+      "avg_compute_time_ms": 0.02406666616090141,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 70,
+      "score": 67,
+      "steps": 1005,
+      "avg_compute_time_ms": 0.029692338418739094,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 71,
+      "score": 49,
+      "steps": 652,
+      "avg_compute_time_ms": 0.03004969280510227,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 72,
+      "score": 52,
+      "steps": 656,
+      "avg_compute_time_ms": 0.027317835524516384,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 73,
+      "score": 37,
+      "steps": 338,
+      "avg_compute_time_ms": 0.02199082850435881,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 74,
+      "score": 62,
+      "steps": 841,
+      "avg_compute_time_ms": 0.029241974072007064,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 75,
+      "score": 52,
+      "steps": 618,
+      "avg_compute_time_ms": 0.02769255675533696,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 76,
+      "score": 52,
+      "steps": 637,
+      "avg_compute_time_ms": 0.02929340657179377,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 77,
+      "score": 63,
+      "steps": 732,
+      "avg_compute_time_ms": 0.02688633904142224,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 78,
+      "score": 46,
+      "steps": 514,
+      "avg_compute_time_ms": 0.022362645223767567,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 79,
+      "score": 30,
+      "steps": 321,
+      "avg_compute_time_ms": 0.0267059193083413,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 80,
+      "score": 44,
+      "steps": 424,
+      "avg_compute_time_ms": 0.021059433493064716,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 81,
+      "score": 28,
+      "steps": 284,
+      "avg_compute_time_ms": 0.02456373297552001,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 82,
+      "score": 67,
+      "steps": 928,
+      "avg_compute_time_ms": 0.02920150899595244,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 83,
+      "score": 30,
+      "steps": 295,
+      "avg_compute_time_ms": 0.026631864208049312,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 84,
+      "score": 67,
+      "steps": 881,
+      "avg_compute_time_ms": 0.02836152054522732,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 85,
+      "score": 26,
+      "steps": 249,
+      "avg_compute_time_ms": 0.02630522067192942,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 86,
+      "score": 50,
+      "steps": 603,
+      "avg_compute_time_ms": 0.02805671626551364,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 87,
+      "score": 48,
+      "steps": 626,
+      "avg_compute_time_ms": 0.028861661691005867,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 88,
+      "score": 34,
+      "steps": 345,
+      "avg_compute_time_ms": 0.023740000324323773,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 89,
+      "score": 59,
+      "steps": 807,
+      "avg_compute_time_ms": 0.03362763306654556,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 90,
+      "score": 29,
+      "steps": 289,
+      "avg_compute_time_ms": 0.029341868420170177,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 91,
+      "score": 48,
+      "steps": 514,
+      "avg_compute_time_ms": 0.025956614622674113,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 92,
+      "score": 60,
+      "steps": 835,
+      "avg_compute_time_ms": 0.03822718537482294,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 93,
+      "score": 52,
+      "steps": 594,
+      "avg_compute_time_ms": 0.03503333323581069,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 94,
+      "score": 35,
+      "steps": 377,
+      "avg_compute_time_ms": 0.028592307554108316,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 95,
+      "score": 62,
+      "steps": 754,
+      "avg_compute_time_ms": 0.02919747973177755,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 96,
+      "score": 37,
+      "steps": 414,
+      "avg_compute_time_ms": 0.02440579685749225,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 97,
+      "score": 45,
+      "steps": 468,
+      "avg_compute_time_ms": 0.02196431570411779,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 98,
+      "score": 32,
+      "steps": 364,
+      "avg_compute_time_ms": 0.029727197845484346,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 99,
+      "score": 59,
+      "steps": 711,
+      "avg_compute_time_ms": 0.02925780625704744,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 100,
+      "score": 43,
+      "steps": 579,
+      "avg_compute_time_ms": 0.03391416217216543,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 101,
+      "score": 41,
+      "steps": 430,
+      "avg_compute_time_ms": 0.028002791026834572,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 102,
+      "score": 41,
+      "steps": 575,
+      "avg_compute_time_ms": 0.030926434733176033,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 103,
+      "score": 39,
+      "steps": 412,
+      "avg_compute_time_ms": 0.028287378581719997,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 104,
+      "score": 51,
+      "steps": 580,
+      "avg_compute_time_ms": 0.026587414046436355,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 105,
+      "score": 48,
+      "steps": 570,
+      "avg_compute_time_ms": 0.027668070412657567,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 106,
+      "score": 39,
+      "steps": 435,
+      "avg_compute_time_ms": 0.024697011411618227,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 107,
+      "score": 59,
+      "steps": 808,
+      "avg_compute_time_ms": 0.030212499941716497,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 108,
+      "score": 50,
+      "steps": 547,
+      "avg_compute_time_ms": 0.02690182833943407,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 109,
+      "score": 34,
+      "steps": 380,
+      "avg_compute_time_ms": 0.02811315758950322,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 110,
+      "score": 46,
+      "steps": 566,
+      "avg_compute_time_ms": 0.029027915094664826,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 111,
+      "score": 42,
+      "steps": 470,
+      "avg_compute_time_ms": 0.028512340151714756,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 112,
+      "score": 39,
+      "steps": 439,
+      "avg_compute_time_ms": 0.024474942926762958,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 113,
+      "score": 18,
+      "steps": 174,
+      "avg_compute_time_ms": 0.0238419533339222,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 114,
+      "score": 55,
+      "steps": 741,
+      "avg_compute_time_ms": 0.03102375174792139,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 115,
+      "score": 36,
+      "steps": 453,
+      "avg_compute_time_ms": 0.030486093048688854,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 116,
+      "score": 60,
+      "steps": 775,
+      "avg_compute_time_ms": 0.0303930320754467,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 117,
+      "score": 52,
+      "steps": 734,
+      "avg_compute_time_ms": 0.032413215618307775,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 118,
+      "score": 28,
+      "steps": 266,
+      "avg_compute_time_ms": 0.025254134904974863,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 119,
+      "score": 43,
+      "steps": 476,
+      "avg_compute_time_ms": 0.028063655398519977,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 120,
+      "score": 55,
+      "steps": 808,
+      "avg_compute_time_ms": 0.031504084227611265,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 121,
+      "score": 48,
+      "steps": 580,
+      "avg_compute_time_ms": 0.02723620664569196,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 122,
+      "score": 71,
+      "steps": 861,
+      "avg_compute_time_ms": 0.027810685174608912,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 123,
+      "score": 54,
+      "steps": 662,
+      "avg_compute_time_ms": 0.028975679520855228,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 124,
+      "score": 56,
+      "steps": 619,
+      "avg_compute_time_ms": 0.027349595900516662,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 125,
+      "score": 56,
+      "steps": 751,
+      "avg_compute_time_ms": 0.03254873503387699,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 126,
+      "score": 72,
+      "steps": 926,
+      "avg_compute_time_ms": 0.027266522769144378,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 127,
+      "score": 58,
+      "steps": 645,
+      "avg_compute_time_ms": 0.024354418689139592,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 128,
+      "score": 62,
+      "steps": 837,
+      "avg_compute_time_ms": 0.03112269996074579,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 129,
+      "score": 53,
+      "steps": 689,
+      "avg_compute_time_ms": 0.03139811339609038,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 130,
+      "score": 45,
+      "steps": 543,
+      "avg_compute_time_ms": 0.028233517094902887,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 131,
+      "score": 62,
+      "steps": 729,
+      "avg_compute_time_ms": 0.026612071299175533,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 132,
+      "score": 29,
+      "steps": 306,
+      "avg_compute_time_ms": 0.029171895898887704,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 133,
+      "score": 47,
+      "steps": 578,
+      "avg_compute_time_ms": 0.03052387588172442,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 134,
+      "score": 61,
+      "steps": 753,
+      "avg_compute_time_ms": 0.028293226957030515,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 135,
+      "score": 35,
+      "steps": 398,
+      "avg_compute_time_ms": 0.02870753785681878,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 136,
+      "score": 40,
+      "steps": 450,
+      "avg_compute_time_ms": 0.028275999874393973,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 137,
+      "score": 31,
+      "steps": 276,
+      "avg_compute_time_ms": 0.021047101957568277,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 138,
+      "score": 48,
+      "steps": 575,
+      "avg_compute_time_ms": 0.03131930397459023,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 139,
+      "score": 61,
+      "steps": 783,
+      "avg_compute_time_ms": 0.027572796619074993,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 140,
+      "score": 44,
+      "steps": 494,
+      "avg_compute_time_ms": 0.031176112853329975,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 141,
+      "score": 50,
+      "steps": 612,
+      "avg_compute_time_ms": 0.028732026335775696,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 142,
+      "score": 51,
+      "steps": 529,
+      "avg_compute_time_ms": 0.025385255495787004,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 143,
+      "score": 29,
+      "steps": 338,
+      "avg_compute_time_ms": 0.02694230756760966,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 144,
+      "score": 51,
+      "steps": 537,
+      "avg_compute_time_ms": 0.0234351953443008,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 145,
+      "score": 55,
+      "steps": 661,
+      "avg_compute_time_ms": 0.02879273855626166,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 146,
+      "score": 43,
+      "steps": 512,
+      "avg_compute_time_ms": 0.026895508000279733,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 147,
+      "score": 36,
+      "steps": 397,
+      "avg_compute_time_ms": 0.029815365119030234,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 148,
+      "score": 32,
+      "steps": 385,
+      "avg_compute_time_ms": 0.03202207792435422,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 149,
+      "score": 50,
+      "steps": 667,
+      "avg_compute_time_ms": 0.028689805386138374,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 150,
+      "score": 36,
+      "steps": 455,
+      "avg_compute_time_ms": 0.02696417559291349,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 151,
+      "score": 45,
+      "steps": 513,
+      "avg_compute_time_ms": 0.025456140246051664,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 152,
+      "score": 65,
+      "steps": 876,
+      "avg_compute_time_ms": 0.027790981947952566,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 153,
+      "score": 50,
+      "steps": 603,
+      "avg_compute_time_ms": 0.027319900405780098,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 154,
+      "score": 56,
+      "steps": 707,
+      "avg_compute_time_ms": 0.028658840422290662,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 155,
+      "score": 54,
+      "steps": 727,
+      "avg_compute_time_ms": 0.028395048159935564,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 156,
+      "score": 26,
+      "steps": 280,
+      "avg_compute_time_ms": 0.02894107165047899,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 157,
+      "score": 65,
+      "steps": 742,
+      "avg_compute_time_ms": 0.024664420529389178,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 158,
+      "score": 39,
+      "steps": 467,
+      "avg_compute_time_ms": 0.027828693177503167,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 159,
+      "score": 34,
+      "steps": 388,
+      "avg_compute_time_ms": 0.029894588131111923,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 160,
+      "score": 65,
+      "steps": 767,
+      "avg_compute_time_ms": 0.02786127760938965,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 161,
+      "score": 45,
+      "steps": 518,
+      "avg_compute_time_ms": 0.030556370356546278,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 162,
+      "score": 45,
+      "steps": 529,
+      "avg_compute_time_ms": 0.027657278177648827,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 163,
+      "score": 51,
+      "steps": 529,
+      "avg_compute_time_ms": 0.025363894192007193,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 164,
+      "score": 30,
+      "steps": 362,
+      "avg_compute_time_ms": 0.031878729141831846,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 165,
+      "score": 53,
+      "steps": 655,
+      "avg_compute_time_ms": 0.026044580163007588,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 166,
+      "score": 22,
+      "steps": 217,
+      "avg_compute_time_ms": 0.02741290206488754,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 167,
+      "score": 41,
+      "steps": 445,
+      "avg_compute_time_ms": 0.02649213495439316,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 168,
+      "score": 67,
+      "steps": 888,
+      "avg_compute_time_ms": 0.02841587801257291,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 169,
+      "score": 12,
+      "steps": 98,
+      "avg_compute_time_ms": 0.03223775616343304,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 170,
+      "score": 40,
+      "steps": 475,
+      "avg_compute_time_ms": 0.028261263015385913,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 171,
+      "score": 67,
+      "steps": 974,
+      "avg_compute_time_ms": 0.030445687824098136,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 172,
+      "score": 57,
+      "steps": 691,
+      "avg_compute_time_ms": 0.027068161582351865,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 173,
+      "score": 71,
+      "steps": 1008,
+      "avg_compute_time_ms": 0.03134900800923499,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 174,
+      "score": 59,
+      "steps": 777,
+      "avg_compute_time_ms": 0.02976113233950224,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 175,
+      "score": 63,
+      "steps": 873,
+      "avg_compute_time_ms": 0.030280870554423578,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 176,
+      "score": 53,
+      "steps": 649,
+      "avg_compute_time_ms": 0.031185362308475552,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 177,
+      "score": 58,
+      "steps": 644,
+      "avg_compute_time_ms": 0.026101397215034405,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 178,
+      "score": 40,
+      "steps": 392,
+      "avg_compute_time_ms": 0.0254219387582508,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 179,
+      "score": 30,
+      "steps": 310,
+      "avg_compute_time_ms": 0.026398709498255724,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 180,
+      "score": 35,
+      "steps": 449,
+      "avg_compute_time_ms": 0.02707193791244038,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 181,
+      "score": 87,
+      "steps": 1467,
+      "avg_compute_time_ms": 0.03004424002292314,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 182,
+      "score": 51,
+      "steps": 603,
+      "avg_compute_time_ms": 0.026935821064712345,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 183,
+      "score": 53,
+      "steps": 661,
+      "avg_compute_time_ms": 0.026790620080186914,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 184,
+      "score": 50,
+      "steps": 557,
+      "avg_compute_time_ms": 0.02625924597274432,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 185,
+      "score": 29,
+      "steps": 345,
+      "avg_compute_time_ms": 0.028380869374866936,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 186,
+      "score": 52,
+      "steps": 711,
+      "avg_compute_time_ms": 0.03287046411763693,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 187,
+      "score": 67,
+      "steps": 919,
+      "avg_compute_time_ms": 0.028778128555856274,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 188,
+      "score": 52,
+      "steps": 559,
+      "avg_compute_time_ms": 0.0247953487526832,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 189,
+      "score": 38,
+      "steps": 458,
+      "avg_compute_time_ms": 0.03055043676263128,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 190,
+      "score": 77,
+      "steps": 978,
+      "avg_compute_time_ms": 0.027240899878678795,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 191,
+      "score": 47,
+      "steps": 629,
+      "avg_compute_time_ms": 0.02843116077210233,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 192,
+      "score": 58,
+      "steps": 725,
+      "avg_compute_time_ms": 0.026825792818522917,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 193,
+      "score": 56,
+      "steps": 683,
+      "avg_compute_time_ms": 0.027610688327298953,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 194,
+      "score": 44,
+      "steps": 482,
+      "avg_compute_time_ms": 0.027256638958424145,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 195,
+      "score": 48,
+      "steps": 539,
+      "avg_compute_time_ms": 0.032383487276916076,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 196,
+      "score": 41,
+      "steps": 448,
+      "avg_compute_time_ms": 0.025770758384169312,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 197,
+      "score": 41,
+      "steps": 486,
+      "avg_compute_time_ms": 0.0270454731262998,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 198,
+      "score": 61,
+      "steps": 802,
+      "avg_compute_time_ms": 0.03142182067404745,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 199,
+      "score": 64,
+      "steps": 757,
+      "avg_compute_time_ms": 0.02662007932756047,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 200,
+      "score": 30,
+      "steps": 328,
+      "avg_compute_time_ms": 0.025889329241713645,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 201,
+      "score": 36,
+      "steps": 349,
+      "avg_compute_time_ms": 0.02514555832480526,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 202,
+      "score": 32,
+      "steps": 384,
+      "avg_compute_time_ms": 0.02840703151226383,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 203,
+      "score": 51,
+      "steps": 711,
+      "avg_compute_time_ms": 0.03158987335056465,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 204,
+      "score": 42,
+      "steps": 394,
+      "avg_compute_time_ms": 0.02310126880272457,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 205,
+      "score": 46,
+      "steps": 456,
+      "avg_compute_time_ms": 0.024175657304830993,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 206,
+      "score": 24,
+      "steps": 282,
+      "avg_compute_time_ms": 0.033279787429116324,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 207,
+      "score": 31,
+      "steps": 298,
+      "avg_compute_time_ms": 0.02233120815940951,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 208,
+      "score": 26,
+      "steps": 228,
+      "avg_compute_time_ms": 0.01909210575895645,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 209,
+      "score": 44,
+      "steps": 502,
+      "avg_compute_time_ms": 0.024552987831639148,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 210,
+      "score": 60,
+      "steps": 709,
+      "avg_compute_time_ms": 0.025536106818596003,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 211,
+      "score": 37,
+      "steps": 399,
+      "avg_compute_time_ms": 0.02614335847883147,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 212,
+      "score": 40,
+      "steps": 423,
+      "avg_compute_time_ms": 0.02259763627011443,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 213,
+      "score": 33,
+      "steps": 344,
+      "avg_compute_time_ms": 0.023655813746763458,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 214,
+      "score": 59,
+      "steps": 816,
+      "avg_compute_time_ms": 0.030615808795760934,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 215,
+      "score": 39,
+      "steps": 476,
+      "avg_compute_time_ms": 0.028151680881445134,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 216,
+      "score": 47,
+      "steps": 581,
+      "avg_compute_time_ms": 0.027987263103299447,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 217,
+      "score": 54,
+      "steps": 663,
+      "avg_compute_time_ms": 0.027511463230855057,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 218,
+      "score": 45,
+      "steps": 490,
+      "avg_compute_time_ms": 0.03821081677879378,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 219,
+      "score": 56,
+      "steps": 755,
+      "avg_compute_time_ms": 0.03328039727192249,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 220,
+      "score": 38,
+      "steps": 477,
+      "avg_compute_time_ms": 0.030354298039854934,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 221,
+      "score": 63,
+      "steps": 789,
+      "avg_compute_time_ms": 0.02974550082898346,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 222,
+      "score": 56,
+      "steps": 588,
+      "avg_compute_time_ms": 0.025471768760301338,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 223,
+      "score": 68,
+      "steps": 966,
+      "avg_compute_time_ms": 0.030450724412019,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 224,
+      "score": 41,
+      "steps": 435,
+      "avg_compute_time_ms": 0.026436781627126038,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 225,
+      "score": 58,
+      "steps": 777,
+      "avg_compute_time_ms": 0.02939150567697493,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 226,
+      "score": 51,
+      "steps": 561,
+      "avg_compute_time_ms": 0.025358823506342523,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 227,
+      "score": 49,
+      "steps": 611,
+      "avg_compute_time_ms": 0.028100163309450782,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 228,
+      "score": 28,
+      "steps": 329,
+      "avg_compute_time_ms": 0.025849847854072606,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 229,
+      "score": 66,
+      "steps": 762,
+      "avg_compute_time_ms": 0.02443254585383983,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 230,
+      "score": 53,
+      "steps": 653,
+      "avg_compute_time_ms": 0.026156508165360307,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 231,
+      "score": 35,
+      "steps": 476,
+      "avg_compute_time_ms": 0.033155251706474924,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 232,
+      "score": 43,
+      "steps": 380,
+      "avg_compute_time_ms": 0.022417895027166724,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 233,
+      "score": 55,
+      "steps": 685,
+      "avg_compute_time_ms": 0.028344379596915232,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 234,
+      "score": 56,
+      "steps": 636,
+      "avg_compute_time_ms": 0.024754402725393563,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 235,
+      "score": 56,
+      "steps": 667,
+      "avg_compute_time_ms": 0.028168365756898694,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 236,
+      "score": 45,
+      "steps": 521,
+      "avg_compute_time_ms": 0.026242610009256644,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 237,
+      "score": 30,
+      "steps": 316,
+      "avg_compute_time_ms": 0.026278164378835973,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 238,
+      "score": 30,
+      "steps": 360,
+      "avg_compute_time_ms": 0.025693055633584864,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 239,
+      "score": 53,
+      "steps": 613,
+      "avg_compute_time_ms": 0.025705873242087153,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 240,
+      "score": 41,
+      "steps": 475,
+      "avg_compute_time_ms": 0.02574547368567437,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 241,
+      "score": 62,
+      "steps": 823,
+      "avg_compute_time_ms": 0.029986755819035014,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 242,
+      "score": 56,
+      "steps": 722,
+      "avg_compute_time_ms": 0.027733379492853507,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 243,
+      "score": 53,
+      "steps": 629,
+      "avg_compute_time_ms": 0.026784578573502103,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 244,
+      "score": 54,
+      "steps": 698,
+      "avg_compute_time_ms": 0.030643552887643068,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 245,
+      "score": 23,
+      "steps": 211,
+      "avg_compute_time_ms": 0.026326540607067433,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 246,
+      "score": 63,
+      "steps": 802,
+      "avg_compute_time_ms": 0.02980810470552186,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 247,
+      "score": 34,
+      "steps": 374,
+      "avg_compute_time_ms": 0.026238234976697514,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 248,
+      "score": 53,
+      "steps": 616,
+      "avg_compute_time_ms": 0.02628847396881138,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 249,
+      "score": 51,
+      "steps": 551,
+      "avg_compute_time_ms": 0.023268239766810625,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 250,
+      "score": 53,
+      "steps": 709,
+      "avg_compute_time_ms": 0.030153173435583172,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 251,
+      "score": 49,
+      "steps": 576,
+      "avg_compute_time_ms": 0.02700850675157401,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 252,
+      "score": 64,
+      "steps": 792,
+      "avg_compute_time_ms": 0.02901212138393094,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 253,
+      "score": 36,
+      "steps": 401,
+      "avg_compute_time_ms": 0.02858678298187152,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 254,
+      "score": 45,
+      "steps": 549,
+      "avg_compute_time_ms": 0.03218287807225143,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 255,
+      "score": 36,
+      "steps": 418,
+      "avg_compute_time_ms": 0.02607583677820621,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 256,
+      "score": 46,
+      "steps": 546,
+      "avg_compute_time_ms": 0.029585531366061107,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 257,
+      "score": 46,
+      "steps": 491,
+      "avg_compute_time_ms": 0.0242226061047493,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 258,
+      "score": 38,
+      "steps": 421,
+      "avg_compute_time_ms": 0.027350356644450857,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 259,
+      "score": 40,
+      "steps": 438,
+      "avg_compute_time_ms": 0.02366758028622589,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 260,
+      "score": 61,
+      "steps": 801,
+      "avg_compute_time_ms": 0.030843820092245032,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 261,
+      "score": 54,
+      "steps": 579,
+      "avg_compute_time_ms": 0.02628980969104575,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 262,
+      "score": 50,
+      "steps": 667,
+      "avg_compute_time_ms": 0.030666416815678957,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 263,
+      "score": 77,
+      "steps": 905,
+      "avg_compute_time_ms": 0.02546441964470673,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 264,
+      "score": 52,
+      "steps": 652,
+      "avg_compute_time_ms": 0.02958266919516627,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 265,
+      "score": 28,
+      "steps": 307,
+      "avg_compute_time_ms": 0.028388273347842625,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 266,
+      "score": 52,
+      "steps": 602,
+      "avg_compute_time_ms": 0.027197840687566657,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 267,
+      "score": 40,
+      "steps": 452,
+      "avg_compute_time_ms": 0.028794690599846365,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 268,
+      "score": 49,
+      "steps": 589,
+      "avg_compute_time_ms": 0.028965534835639576,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 269,
+      "score": 54,
+      "steps": 757,
+      "avg_compute_time_ms": 0.03176274752617129,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 270,
+      "score": 48,
+      "steps": 595,
+      "avg_compute_time_ms": 0.027445041718344918,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 271,
+      "score": 27,
+      "steps": 312,
+      "avg_compute_time_ms": 0.030346795075531237,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 272,
+      "score": 39,
+      "steps": 445,
+      "avg_compute_time_ms": 0.02784651672739661,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 273,
+      "score": 39,
+      "steps": 471,
+      "avg_compute_time_ms": 0.026697877225033036,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 274,
+      "score": 55,
+      "steps": 712,
+      "avg_compute_time_ms": 0.02937808954464324,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 275,
+      "score": 32,
+      "steps": 375,
+      "avg_compute_time_ms": 0.03258400034004201,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 276,
+      "score": 20,
+      "steps": 217,
+      "avg_compute_time_ms": 0.03066451625666723,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 277,
+      "score": 36,
+      "steps": 455,
+      "avg_compute_time_ms": 0.0291463742761842,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 278,
+      "score": 42,
+      "steps": 493,
+      "avg_compute_time_ms": 0.029365112013268545,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 279,
+      "score": 61,
+      "steps": 813,
+      "avg_compute_time_ms": 0.030713776067222344,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 280,
+      "score": 51,
+      "steps": 566,
+      "avg_compute_time_ms": 0.026789575616924535,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 281,
+      "score": 34,
+      "steps": 432,
+      "avg_compute_time_ms": 0.030423379636583075,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 282,
+      "score": 58,
+      "steps": 705,
+      "avg_compute_time_ms": 0.028861560284965903,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 283,
+      "score": 66,
+      "steps": 880,
+      "avg_compute_time_ms": 0.028691136239186482,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 284,
+      "score": 40,
+      "steps": 397,
+      "avg_compute_time_ms": 0.02402342585858511,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 285,
+      "score": 73,
+      "steps": 1031,
+      "avg_compute_time_ms": 0.027940155038109662,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 286,
+      "score": 45,
+      "steps": 556,
+      "avg_compute_time_ms": 0.030857014476921303,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 287,
+      "score": 37,
+      "steps": 433,
+      "avg_compute_time_ms": 0.025882447945270216,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 288,
+      "score": 33,
+      "steps": 365,
+      "avg_compute_time_ms": 0.028747396682363563,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 289,
+      "score": 57,
+      "steps": 704,
+      "avg_compute_time_ms": 0.027506391916176653,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 290,
+      "score": 44,
+      "steps": 493,
+      "avg_compute_time_ms": 0.02784401613559657,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 291,
+      "score": 40,
+      "steps": 469,
+      "avg_compute_time_ms": 0.026370576270836107,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 292,
+      "score": 37,
+      "steps": 382,
+      "avg_compute_time_ms": 0.02392382210599629,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 293,
+      "score": 60,
+      "steps": 739,
+      "avg_compute_time_ms": 0.02798240849447685,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 294,
+      "score": 51,
+      "steps": 708,
+      "avg_compute_time_ms": 0.033113418193336706,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 295,
+      "score": 62,
+      "steps": 819,
+      "avg_compute_time_ms": 0.028938095176152392,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 296,
+      "score": 51,
+      "steps": 626,
+      "avg_compute_time_ms": 0.029009744467677925,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 297,
+      "score": 44,
+      "steps": 441,
+      "avg_compute_time_ms": 0.02553083882017733,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 298,
+      "score": 28,
+      "steps": 294,
+      "avg_compute_time_ms": 0.028073469972393166,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 299,
+      "score": 42,
+      "steps": 465,
+      "avg_compute_time_ms": 0.026852258522393962,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 0,
+      "score": 40,
+      "steps": 461,
+      "avg_compute_time_ms": 0.033682212328241326,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 1,
+      "score": 43,
+      "steps": 498,
+      "avg_compute_time_ms": 0.03438313240578106,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 2,
+      "score": 46,
+      "steps": 507,
+      "avg_compute_time_ms": 0.03502781087182705,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 3,
+      "score": 33,
+      "steps": 377,
+      "avg_compute_time_ms": 0.03608275831439866,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 4,
+      "score": 46,
+      "steps": 625,
+      "avg_compute_time_ms": 0.03862159971613437,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 5,
+      "score": 54,
+      "steps": 657,
+      "avg_compute_time_ms": 0.03462404950824531,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 6,
+      "score": 49,
+      "steps": 618,
+      "avg_compute_time_ms": 0.037076537139242076,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 7,
+      "score": 34,
+      "steps": 359,
+      "avg_compute_time_ms": 0.03375041762770291,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 8,
+      "score": 56,
+      "steps": 672,
+      "avg_compute_time_ms": 0.03905208316046767,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 9,
+      "score": 45,
+      "steps": 533,
+      "avg_compute_time_ms": 0.038217073108775514,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 10,
+      "score": 40,
+      "steps": 543,
+      "avg_compute_time_ms": 0.04053738433546104,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 11,
+      "score": 36,
+      "steps": 397,
+      "avg_compute_time_ms": 0.03505012609729642,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 12,
+      "score": 41,
+      "steps": 456,
+      "avg_compute_time_ms": 0.033444079459162855,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 13,
+      "score": 50,
+      "steps": 604,
+      "avg_compute_time_ms": 0.036722516007096945,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 14,
+      "score": 22,
+      "steps": 209,
+      "avg_compute_time_ms": 0.02699665186044417,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 15,
+      "score": 43,
+      "steps": 505,
+      "avg_compute_time_ms": 0.03499425743074885,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 16,
+      "score": 35,
+      "steps": 387,
+      "avg_compute_time_ms": 0.03184005178153775,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 17,
+      "score": 73,
+      "steps": 1001,
+      "avg_compute_time_ms": 0.043459140704237634,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 18,
+      "score": 62,
+      "steps": 757,
+      "avg_compute_time_ms": 0.04013645989175079,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 19,
+      "score": 34,
+      "steps": 364,
+      "avg_compute_time_ms": 0.031496703621207295,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 20,
+      "score": 45,
+      "steps": 499,
+      "avg_compute_time_ms": 0.0353220439392827,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 21,
+      "score": 47,
+      "steps": 607,
+      "avg_compute_time_ms": 0.04236276769363114,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 22,
+      "score": 66,
+      "steps": 888,
+      "avg_compute_time_ms": 0.0399568693906117,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 23,
+      "score": 46,
+      "steps": 514,
+      "avg_compute_time_ms": 0.0368371592113904,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 24,
+      "score": 48,
+      "steps": 611,
+      "avg_compute_time_ms": 0.03906415705683408,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 25,
+      "score": 54,
+      "steps": 683,
+      "avg_compute_time_ms": 0.0408177154863425,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 26,
+      "score": 41,
+      "steps": 458,
+      "avg_compute_time_ms": 0.03526724884378028,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 27,
+      "score": 48,
+      "steps": 564,
+      "avg_compute_time_ms": 0.03746152450479171,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 28,
+      "score": 48,
+      "steps": 560,
+      "avg_compute_time_ms": 0.036450357401918154,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 29,
+      "score": 49,
+      "steps": 586,
+      "avg_compute_time_ms": 0.03873481202247607,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 30,
+      "score": 60,
+      "steps": 780,
+      "avg_compute_time_ms": 0.039706538238813385,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 31,
+      "score": 56,
+      "steps": 712,
+      "avg_compute_time_ms": 0.041569100942703364,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 32,
+      "score": 56,
+      "steps": 678,
+      "avg_compute_time_ms": 0.03746165143196117,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 33,
+      "score": 39,
+      "steps": 462,
+      "avg_compute_time_ms": 0.03479675309066318,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 34,
+      "score": 36,
+      "steps": 404,
+      "avg_compute_time_ms": 0.032498019335083755,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 35,
+      "score": 24,
+      "steps": 232,
+      "avg_compute_time_ms": 0.030311206626657653,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 36,
+      "score": 61,
+      "steps": 735,
+      "avg_compute_time_ms": 0.03571292459901397,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 37,
+      "score": 56,
+      "steps": 704,
+      "avg_compute_time_ms": 0.04108210251532992,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 38,
+      "score": 44,
+      "steps": 577,
+      "avg_compute_time_ms": 0.04100207988623904,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 39,
+      "score": 30,
+      "steps": 326,
+      "avg_compute_time_ms": 0.032966564353369754,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 40,
+      "score": 62,
+      "steps": 842,
+      "avg_compute_time_ms": 0.04174489308244851,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 41,
+      "score": 49,
+      "steps": 539,
+      "avg_compute_time_ms": 0.035118367367446536,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 42,
+      "score": 36,
+      "steps": 358,
+      "avg_compute_time_ms": 0.030798324282663513,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 43,
+      "score": 50,
+      "steps": 613,
+      "avg_compute_time_ms": 0.03489314810259702,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 44,
+      "score": 48,
+      "steps": 535,
+      "avg_compute_time_ms": 0.03549850490879894,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 45,
+      "score": 57,
+      "steps": 771,
+      "avg_compute_time_ms": 0.04293048013640077,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 46,
+      "score": 54,
+      "steps": 777,
+      "avg_compute_time_ms": 0.04170064321009531,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 47,
+      "score": 36,
+      "steps": 395,
+      "avg_compute_time_ms": 0.0345845566030969,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 48,
+      "score": 66,
+      "steps": 748,
+      "avg_compute_time_ms": 0.038668983784021144,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 49,
+      "score": 60,
+      "steps": 744,
+      "avg_compute_time_ms": 0.04007916670885333,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 50,
+      "score": 38,
+      "steps": 496,
+      "avg_compute_time_ms": 0.03815443523630928,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 51,
+      "score": 65,
+      "steps": 756,
+      "avg_compute_time_ms": 0.036513094990310954,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 52,
+      "score": 52,
+      "steps": 602,
+      "avg_compute_time_ms": 0.034366278478680824,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 53,
+      "score": 28,
+      "steps": 257,
+      "avg_compute_time_ms": 0.02872217862172857,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 54,
+      "score": 59,
+      "steps": 773,
+      "avg_compute_time_ms": 0.04064320847690275,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 55,
+      "score": 22,
+      "steps": 213,
+      "avg_compute_time_ms": 0.028874647493163746,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 56,
+      "score": 73,
+      "steps": 1021,
+      "avg_compute_time_ms": 0.04250362396468732,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 57,
+      "score": 65,
+      "steps": 813,
+      "avg_compute_time_ms": 0.04451599008309784,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 58,
+      "score": 73,
+      "steps": 955,
+      "avg_compute_time_ms": 0.04164397893887969,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 59,
+      "score": 52,
+      "steps": 619,
+      "avg_compute_time_ms": 0.03803974145012328,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 60,
+      "score": 44,
+      "steps": 515,
+      "avg_compute_time_ms": 0.037565437011031926,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 61,
+      "score": 43,
+      "steps": 465,
+      "avg_compute_time_ms": 0.031270322694082656,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 62,
+      "score": 47,
+      "steps": 629,
+      "avg_compute_time_ms": 0.038682034248241855,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 63,
+      "score": 45,
+      "steps": 512,
+      "avg_compute_time_ms": 0.0352097657696504,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 64,
+      "score": 44,
+      "steps": 469,
+      "avg_compute_time_ms": 0.03278827303270899,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 65,
+      "score": 24,
+      "steps": 249,
+      "avg_compute_time_ms": 0.03949558191949569,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 66,
+      "score": 44,
+      "steps": 547,
+      "avg_compute_time_ms": 0.03783967087051271,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 67,
+      "score": 55,
+      "steps": 707,
+      "avg_compute_time_ms": 0.03780565758748178,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 68,
+      "score": 38,
+      "steps": 382,
+      "avg_compute_time_ms": 0.035372774585403735,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 69,
+      "score": 33,
+      "steps": 336,
+      "avg_compute_time_ms": 0.029608333361032975,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 70,
+      "score": 43,
+      "steps": 485,
+      "avg_compute_time_ms": 0.03567608274380225,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 71,
+      "score": 49,
+      "steps": 652,
+      "avg_compute_time_ms": 0.040433129001633074,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 72,
+      "score": 52,
+      "steps": 656,
+      "avg_compute_time_ms": 0.03800396342096685,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 73,
+      "score": 59,
+      "steps": 632,
+      "avg_compute_time_ms": 0.035909968550807705,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 74,
+      "score": 67,
+      "steps": 910,
+      "avg_compute_time_ms": 0.03993824165273499,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 75,
+      "score": 52,
+      "steps": 618,
+      "avg_compute_time_ms": 0.037458414055706934,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 76,
+      "score": 52,
+      "steps": 637,
+      "avg_compute_time_ms": 0.04048540005263006,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 77,
+      "score": 63,
+      "steps": 732,
+      "avg_compute_time_ms": 0.03791912592428385,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 78,
+      "score": 46,
+      "steps": 514,
+      "avg_compute_time_ms": 0.03267704242621168,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 79,
+      "score": 30,
+      "steps": 321,
+      "avg_compute_time_ms": 0.03404299025184466,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 80,
+      "score": 44,
+      "steps": 424,
+      "avg_compute_time_ms": 0.03197971691749771,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 81,
+      "score": 28,
+      "steps": 284,
+      "avg_compute_time_ms": 0.03188274596640709,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 82,
+      "score": 50,
+      "steps": 688,
+      "avg_compute_time_ms": 0.03933037818527271,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 83,
+      "score": 30,
+      "steps": 295,
+      "avg_compute_time_ms": 0.028637288605904806,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 84,
+      "score": 55,
+      "steps": 665,
+      "avg_compute_time_ms": 0.03994676683630262,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 85,
+      "score": 26,
+      "steps": 249,
+      "avg_compute_time_ms": 0.031955822802945434,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 86,
+      "score": 52,
+      "steps": 646,
+      "avg_compute_time_ms": 0.03844303407471327,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 87,
+      "score": 66,
+      "steps": 855,
+      "avg_compute_time_ms": 0.03982514623969206,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 88,
+      "score": 34,
+      "steps": 345,
+      "avg_compute_time_ms": 0.035351013766426215,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 89,
+      "score": 62,
+      "steps": 844,
+      "avg_compute_time_ms": 0.043840047381145185,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 90,
+      "score": 29,
+      "steps": 289,
+      "avg_compute_time_ms": 0.034216609215492765,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 91,
+      "score": 48,
+      "steps": 514,
+      "avg_compute_time_ms": 0.032566925903722455,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 92,
+      "score": 62,
+      "steps": 814,
+      "avg_compute_time_ms": 0.041240294567905414,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 93,
+      "score": 52,
+      "steps": 588,
+      "avg_compute_time_ms": 0.03773112242628003,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 94,
+      "score": 52,
+      "steps": 573,
+      "avg_compute_time_ms": 0.03963944141145139,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 95,
+      "score": 66,
+      "steps": 816,
+      "avg_compute_time_ms": 0.041528798700549964,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 96,
+      "score": 39,
+      "steps": 487,
+      "avg_compute_time_ms": 0.04000944518450709,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 97,
+      "score": 45,
+      "steps": 468,
+      "avg_compute_time_ms": 0.03190213629929149,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 98,
+      "score": 72,
+      "steps": 893,
+      "avg_compute_time_ms": 0.03928779384206296,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 99,
+      "score": 58,
+      "steps": 731,
+      "avg_compute_time_ms": 0.04109480128341346,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 100,
+      "score": 53,
+      "steps": 645,
+      "avg_compute_time_ms": 0.042037053964129656,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 101,
+      "score": 41,
+      "steps": 430,
+      "avg_compute_time_ms": 0.036964186353522326,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 102,
+      "score": 37,
+      "steps": 489,
+      "avg_compute_time_ms": 0.03954458126849695,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 103,
+      "score": 58,
+      "steps": 692,
+      "avg_compute_time_ms": 0.038820520480603485,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 104,
+      "score": 53,
+      "steps": 660,
+      "avg_compute_time_ms": 0.03729439397857553,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 105,
+      "score": 51,
+      "steps": 600,
+      "avg_compute_time_ms": 0.03784516678327539,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 106,
+      "score": 47,
+      "steps": 553,
+      "avg_compute_time_ms": 0.035239059804765265,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 107,
+      "score": 52,
+      "steps": 720,
+      "avg_compute_time_ms": 0.041786527455971945,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 108,
+      "score": 58,
+      "steps": 695,
+      "avg_compute_time_ms": 0.03715280576176915,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 109,
+      "score": 34,
+      "steps": 380,
+      "avg_compute_time_ms": 0.036998947134155684,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 110,
+      "score": 56,
+      "steps": 759,
+      "avg_compute_time_ms": 0.03948168653386801,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 111,
+      "score": 42,
+      "steps": 470,
+      "avg_compute_time_ms": 0.03600148905187528,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 112,
+      "score": 39,
+      "steps": 439,
+      "avg_compute_time_ms": 0.03428086559558691,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 113,
+      "score": 18,
+      "steps": 174,
+      "avg_compute_time_ms": 0.027968965309548954,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 114,
+      "score": 40,
+      "steps": 560,
+      "avg_compute_time_ms": 0.044106250139261,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 115,
+      "score": 54,
+      "steps": 727,
+      "avg_compute_time_ms": 0.04129834932949589,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 116,
+      "score": 50,
+      "steps": 580,
+      "avg_compute_time_ms": 0.036931724176172104,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 117,
+      "score": 52,
+      "steps": 783,
+      "avg_compute_time_ms": 0.04144738185799908,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 118,
+      "score": 48,
+      "steps": 641,
+      "avg_compute_time_ms": 0.03966895510898772,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 119,
+      "score": 43,
+      "steps": 476,
+      "avg_compute_time_ms": 0.0370418065740676,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 120,
+      "score": 55,
+      "steps": 808,
+      "avg_compute_time_ms": 0.043149876105282134,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 121,
+      "score": 48,
+      "steps": 580,
+      "avg_compute_time_ms": 0.03787431061059108,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 122,
+      "score": 71,
+      "steps": 861,
+      "avg_compute_time_ms": 0.03948501750943657,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 123,
+      "score": 66,
+      "steps": 847,
+      "avg_compute_time_ms": 0.03915773346605617,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 124,
+      "score": 44,
+      "steps": 471,
+      "avg_compute_time_ms": 0.0366571123539737,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 125,
+      "score": 55,
+      "steps": 755,
+      "avg_compute_time_ms": 0.041252185165764926,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 126,
+      "score": 78,
+      "steps": 1170,
+      "avg_compute_time_ms": 0.04536145312998157,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 127,
+      "score": 58,
+      "steps": 645,
+      "avg_compute_time_ms": 0.03649519358007165,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 128,
+      "score": 46,
+      "steps": 519,
+      "avg_compute_time_ms": 0.03771194617864218,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 129,
+      "score": 61,
+      "steps": 765,
+      "avg_compute_time_ms": 0.03997084975327834,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 130,
+      "score": 45,
+      "steps": 543,
+      "avg_compute_time_ms": 0.038495396076732455,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 131,
+      "score": 57,
+      "steps": 664,
+      "avg_compute_time_ms": 0.037293223032471165,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 132,
+      "score": 29,
+      "steps": 306,
+      "avg_compute_time_ms": 0.04029803976128973,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 133,
+      "score": 69,
+      "steps": 866,
+      "avg_compute_time_ms": 0.040298845354407406,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 134,
+      "score": 41,
+      "steps": 461,
+      "avg_compute_time_ms": 0.03503535748807887,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 135,
+      "score": 35,
+      "steps": 398,
+      "avg_compute_time_ms": 0.03546959805815954,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 136,
+      "score": 40,
+      "steps": 450,
+      "avg_compute_time_ms": 0.04974555586361223,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 137,
+      "score": 44,
+      "steps": 433,
+      "avg_compute_time_ms": 0.041044111039347554,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 138,
+      "score": 55,
+      "steps": 677,
+      "avg_compute_time_ms": 0.04109217063248697,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 139,
+      "score": 51,
+      "steps": 632,
+      "avg_compute_time_ms": 0.03952389248942255,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 140,
+      "score": 47,
+      "steps": 602,
+      "avg_compute_time_ms": 0.039858804124970594,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 141,
+      "score": 60,
+      "steps": 733,
+      "avg_compute_time_ms": 0.03864665779044997,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 142,
+      "score": 56,
+      "steps": 685,
+      "avg_compute_time_ms": 0.03918408746338266,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 143,
+      "score": 29,
+      "steps": 338,
+      "avg_compute_time_ms": 0.032784614841847755,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 144,
+      "score": 51,
+      "steps": 537,
+      "avg_compute_time_ms": 0.034156796771528296,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 145,
+      "score": 52,
+      "steps": 618,
+      "avg_compute_time_ms": 0.038811003438552726,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 146,
+      "score": 43,
+      "steps": 512,
+      "avg_compute_time_ms": 0.034298632357376846,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 147,
+      "score": 36,
+      "steps": 397,
+      "avg_compute_time_ms": 0.03673878986762616,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 148,
+      "score": 32,
+      "steps": 385,
+      "avg_compute_time_ms": 0.038855324246823884,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 149,
+      "score": 55,
+      "steps": 659,
+      "avg_compute_time_ms": 0.03719817886230775,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 150,
+      "score": 59,
+      "steps": 707,
+      "avg_compute_time_ms": 0.03669801991201721,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 151,
+      "score": 45,
+      "steps": 513,
+      "avg_compute_time_ms": 0.03600662806094942,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 152,
+      "score": 68,
+      "steps": 933,
+      "avg_compute_time_ms": 0.03863269036637254,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 153,
+      "score": 60,
+      "steps": 776,
+      "avg_compute_time_ms": 0.04903208737795063,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 154,
+      "score": 69,
+      "steps": 890,
+      "avg_compute_time_ms": 0.040724943866142276,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 155,
+      "score": 58,
+      "steps": 708,
+      "avg_compute_time_ms": 0.03668983039573771,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 156,
+      "score": 26,
+      "steps": 280,
+      "avg_compute_time_ms": 0.03583071452989576,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 157,
+      "score": 47,
+      "steps": 532,
+      "avg_compute_time_ms": 0.034112405962804404,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 158,
+      "score": 39,
+      "steps": 467,
+      "avg_compute_time_ms": 0.035615846143518946,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 159,
+      "score": 34,
+      "steps": 388,
+      "avg_compute_time_ms": 0.03798324722027377,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 160,
+      "score": 58,
+      "steps": 694,
+      "avg_compute_time_ms": 0.03637550454482742,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 161,
+      "score": 45,
+      "steps": 518,
+      "avg_compute_time_ms": 0.04009459455723202,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 162,
+      "score": 45,
+      "steps": 529,
+      "avg_compute_time_ms": 0.03642797719208358,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 163,
+      "score": 53,
+      "steps": 628,
+      "avg_compute_time_ms": 0.037489968675869415,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 164,
+      "score": 30,
+      "steps": 362,
+      "avg_compute_time_ms": 0.038880662695448126,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 165,
+      "score": 62,
+      "steps": 834,
+      "avg_compute_time_ms": 0.03896786540490408,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 166,
+      "score": 22,
+      "steps": 217,
+      "avg_compute_time_ms": 0.0392792625449306,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 167,
+      "score": 41,
+      "steps": 445,
+      "avg_compute_time_ms": 0.03515730312439415,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 168,
+      "score": 58,
+      "steps": 740,
+      "avg_compute_time_ms": 0.03854594552477293,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 169,
+      "score": 12,
+      "steps": 98,
+      "avg_compute_time_ms": 0.03115816367908894,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 170,
+      "score": 40,
+      "steps": 475,
+      "avg_compute_time_ms": 0.036981684449864057,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 171,
+      "score": 67,
+      "steps": 974,
+      "avg_compute_time_ms": 0.04103870666059962,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 172,
+      "score": 54,
+      "steps": 710,
+      "avg_compute_time_ms": 0.04100605655251675,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 173,
+      "score": 52,
+      "steps": 590,
+      "avg_compute_time_ms": 0.03608932217456779,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 174,
+      "score": 48,
+      "steps": 561,
+      "avg_compute_time_ms": 0.03663529428186928,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 175,
+      "score": 48,
+      "steps": 589,
+      "avg_compute_time_ms": 0.03857674066875452,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 176,
+      "score": 32,
+      "steps": 417,
+      "avg_compute_time_ms": 0.040730455510901195,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 177,
+      "score": 58,
+      "steps": 644,
+      "avg_compute_time_ms": 0.03430062124663993,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 178,
+      "score": 40,
+      "steps": 392,
+      "avg_compute_time_ms": 0.03703724460323503,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 179,
+      "score": 30,
+      "steps": 310,
+      "avg_compute_time_ms": 0.03434677369847533,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 180,
+      "score": 47,
+      "steps": 657,
+      "avg_compute_time_ms": 0.03925144579013472,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 181,
+      "score": 48,
+      "steps": 572,
+      "avg_compute_time_ms": 0.035596153418202985,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 182,
+      "score": 53,
+      "steps": 613,
+      "avg_compute_time_ms": 0.03692642756172594,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 183,
+      "score": 53,
+      "steps": 661,
+      "avg_compute_time_ms": 0.037254008555921495,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 184,
+      "score": 54,
+      "steps": 590,
+      "avg_compute_time_ms": 0.034480169958087725,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 185,
+      "score": 29,
+      "steps": 345,
+      "avg_compute_time_ms": 0.03495159473749337,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 186,
+      "score": 52,
+      "steps": 711,
+      "avg_compute_time_ms": 0.042497468370559156,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 187,
+      "score": 76,
+      "steps": 947,
+      "avg_compute_time_ms": 0.044145300679391694,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 188,
+      "score": 47,
+      "steps": 548,
+      "avg_compute_time_ms": 0.03971806588203707,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 189,
+      "score": 57,
+      "steps": 698,
+      "avg_compute_time_ms": 0.03929426921111262,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 190,
+      "score": 64,
+      "steps": 746,
+      "avg_compute_time_ms": 0.03822211800523891,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 191,
+      "score": 47,
+      "steps": 606,
+      "avg_compute_time_ms": 0.038847194728287855,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 192,
+      "score": 47,
+      "steps": 564,
+      "avg_compute_time_ms": 0.037602305202579775,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 193,
+      "score": 56,
+      "steps": 683,
+      "avg_compute_time_ms": 0.03552415789057955,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 194,
+      "score": 64,
+      "steps": 822,
+      "avg_compute_time_ms": 0.04200632594355298,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 195,
+      "score": 56,
+      "steps": 666,
+      "avg_compute_time_ms": 0.03955030036662278,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 196,
+      "score": 41,
+      "steps": 448,
+      "avg_compute_time_ms": 0.03698415194516461,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 197,
+      "score": 41,
+      "steps": 486,
+      "avg_compute_time_ms": 0.038045061791244776,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 198,
+      "score": 59,
+      "steps": 808,
+      "avg_compute_time_ms": 0.04224925711727932,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 199,
+      "score": 64,
+      "steps": 757,
+      "avg_compute_time_ms": 0.03847040946406523,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 200,
+      "score": 30,
+      "steps": 328,
+      "avg_compute_time_ms": 0.03343445128049963,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 201,
+      "score": 36,
+      "steps": 349,
+      "avg_compute_time_ms": 0.0328994268117163,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 202,
+      "score": 32,
+      "steps": 384,
+      "avg_compute_time_ms": 0.03567343776467169,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 203,
+      "score": 51,
+      "steps": 711,
+      "avg_compute_time_ms": 0.041039381282660804,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 204,
+      "score": 42,
+      "steps": 394,
+      "avg_compute_time_ms": 0.02945761477307601,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 205,
+      "score": 46,
+      "steps": 458,
+      "avg_compute_time_ms": 0.03298777275679096,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 206,
+      "score": 24,
+      "steps": 282,
+      "avg_compute_time_ms": 0.035509929277253806,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 207,
+      "score": 31,
+      "steps": 298,
+      "avg_compute_time_ms": 0.03169563730972375,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 208,
+      "score": 66,
+      "steps": 929,
+      "avg_compute_time_ms": 0.04258213083365525,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 209,
+      "score": 44,
+      "steps": 502,
+      "avg_compute_time_ms": 0.03640617524432315,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 210,
+      "score": 60,
+      "steps": 709,
+      "avg_compute_time_ms": 0.03554386467123155,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 211,
+      "score": 62,
+      "steps": 660,
+      "avg_compute_time_ms": 0.03503106078521038,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 212,
+      "score": 61,
+      "steps": 703,
+      "avg_compute_time_ms": 0.03691977213711808,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 213,
+      "score": 33,
+      "steps": 344,
+      "avg_compute_time_ms": 0.031323254937211296,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 214,
+      "score": 59,
+      "steps": 816,
+      "avg_compute_time_ms": 0.040901960560671906,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 215,
+      "score": 39,
+      "steps": 476,
+      "avg_compute_time_ms": 0.0381000001438866,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 216,
+      "score": 47,
+      "steps": 581,
+      "avg_compute_time_ms": 0.0365283988414592,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 217,
+      "score": 61,
+      "steps": 830,
+      "avg_compute_time_ms": 0.041736506191446976,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 218,
+      "score": 53,
+      "steps": 668,
+      "avg_compute_time_ms": 0.03736092860449362,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 219,
+      "score": 64,
+      "steps": 865,
+      "avg_compute_time_ms": 0.04181768788923805,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 220,
+      "score": 36,
+      "steps": 452,
+      "avg_compute_time_ms": 0.0361338508520399,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 221,
+      "score": 62,
+      "steps": 829,
+      "avg_compute_time_ms": 0.04000048237991496,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 222,
+      "score": 48,
+      "steps": 472,
+      "avg_compute_time_ms": 0.03400762653978684,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 223,
+      "score": 69,
+      "steps": 885,
+      "avg_compute_time_ms": 0.041239548623851256,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 224,
+      "score": 60,
+      "steps": 677,
+      "avg_compute_time_ms": 0.035503545462702735,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 225,
+      "score": 34,
+      "steps": 366,
+      "avg_compute_time_ms": 0.033496994780608115,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 226,
+      "score": 47,
+      "steps": 509,
+      "avg_compute_time_ms": 0.03315933207223788,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 227,
+      "score": 44,
+      "steps": 546,
+      "avg_compute_time_ms": 0.03735512819020896,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 228,
+      "score": 28,
+      "steps": 329,
+      "avg_compute_time_ms": 0.030519148802999014,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 229,
+      "score": 66,
+      "steps": 762,
+      "avg_compute_time_ms": 0.036996194347708664,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 230,
+      "score": 55,
+      "steps": 647,
+      "avg_compute_time_ms": 0.03466661520182822,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 231,
+      "score": 35,
+      "steps": 476,
+      "avg_compute_time_ms": 0.041499159093642955,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 232,
+      "score": 71,
+      "steps": 909,
+      "avg_compute_time_ms": 0.04076919696363953,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 233,
+      "score": 55,
+      "steps": 685,
+      "avg_compute_time_ms": 0.04109226260249279,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 234,
+      "score": 56,
+      "steps": 636,
+      "avg_compute_time_ms": 0.03615440249369105,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 235,
+      "score": 59,
+      "steps": 702,
+      "avg_compute_time_ms": 0.03539330480329061,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 236,
+      "score": 45,
+      "steps": 521,
+      "avg_compute_time_ms": 0.03583262982977565,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 237,
+      "score": 30,
+      "steps": 316,
+      "avg_compute_time_ms": 0.03144810140343631,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 238,
+      "score": 30,
+      "steps": 360,
+      "avg_compute_time_ms": 0.03390472197174353,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 239,
+      "score": 53,
+      "steps": 613,
+      "avg_compute_time_ms": 0.03456150060143553,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 240,
+      "score": 41,
+      "steps": 475,
+      "avg_compute_time_ms": 0.034953263790444715,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 241,
+      "score": 58,
+      "steps": 812,
+      "avg_compute_time_ms": 0.04348879333587221,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 242,
+      "score": 56,
+      "steps": 743,
+      "avg_compute_time_ms": 0.03925598954905983,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 243,
+      "score": 68,
+      "steps": 799,
+      "avg_compute_time_ms": 0.038096620716552045,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 244,
+      "score": 54,
+      "steps": 698,
+      "avg_compute_time_ms": 0.04245171840532808,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 245,
+      "score": 23,
+      "steps": 211,
+      "avg_compute_time_ms": 0.03195213192855383,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 246,
+      "score": 63,
+      "steps": 769,
+      "avg_compute_time_ms": 0.03754889437131298,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 247,
+      "score": 64,
+      "steps": 848,
+      "avg_compute_time_ms": 0.04252594365271024,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 248,
+      "score": 79,
+      "steps": 1062,
+      "avg_compute_time_ms": 0.04200075321463367,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 249,
+      "score": 51,
+      "steps": 551,
+      "avg_compute_time_ms": 0.032464428209005004,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 250,
+      "score": 53,
+      "steps": 709,
+      "avg_compute_time_ms": 0.040466008496560076,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 251,
+      "score": 49,
+      "steps": 576,
+      "avg_compute_time_ms": 0.036306770855137276,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 252,
+      "score": 76,
+      "steps": 1006,
+      "avg_compute_time_ms": 0.04145566574955141,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 253,
+      "score": 46,
+      "steps": 515,
+      "avg_compute_time_ms": 0.03686368884179669,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 254,
+      "score": 56,
+      "steps": 725,
+      "avg_compute_time_ms": 0.04187655139409391,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 255,
+      "score": 36,
+      "steps": 418,
+      "avg_compute_time_ms": 0.03598899548231629,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 256,
+      "score": 42,
+      "steps": 507,
+      "avg_compute_time_ms": 0.036945364817323,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 257,
+      "score": 57,
+      "steps": 698,
+      "avg_compute_time_ms": 0.037298280797281,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 258,
+      "score": 29,
+      "steps": 342,
+      "avg_compute_time_ms": 0.0355997078487655,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 259,
+      "score": 46,
+      "steps": 529,
+      "avg_compute_time_ms": 0.03412759849416103,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 260,
+      "score": 61,
+      "steps": 801,
+      "avg_compute_time_ms": 0.03976242169641893,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 261,
+      "score": 45,
+      "steps": 603,
+      "avg_compute_time_ms": 0.04017777783139014,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 262,
+      "score": 57,
+      "steps": 815,
+      "avg_compute_time_ms": 0.041750429285278806,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 263,
+      "score": 58,
+      "steps": 623,
+      "avg_compute_time_ms": 0.033430657899836874,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 264,
+      "score": 37,
+      "steps": 395,
+      "avg_compute_time_ms": 0.033996962055068795,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 265,
+      "score": 28,
+      "steps": 307,
+      "avg_compute_time_ms": 0.03204853383897036,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 266,
+      "score": 55,
+      "steps": 676,
+      "avg_compute_time_ms": 0.03678920088882128,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 267,
+      "score": 40,
+      "steps": 452,
+      "avg_compute_time_ms": 0.03449933565931551,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 268,
+      "score": 49,
+      "steps": 589,
+      "avg_compute_time_ms": 0.0377115453569715,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 269,
+      "score": 58,
+      "steps": 764,
+      "avg_compute_time_ms": 0.04007722507032849,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 270,
+      "score": 48,
+      "steps": 595,
+      "avg_compute_time_ms": 0.03627865543949003,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 271,
+      "score": 27,
+      "steps": 312,
+      "avg_compute_time_ms": 0.03662468020010214,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 272,
+      "score": 39,
+      "steps": 445,
+      "avg_compute_time_ms": 0.034724717882587415,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 273,
+      "score": 39,
+      "steps": 471,
+      "avg_compute_time_ms": 0.03338832277315224,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 274,
+      "score": 59,
+      "steps": 733,
+      "avg_compute_time_ms": 0.04178881345826264,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 275,
+      "score": 32,
+      "steps": 375,
+      "avg_compute_time_ms": 0.037885333062149584,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 276,
+      "score": 20,
+      "steps": 217,
+      "avg_compute_time_ms": 0.031697234900106036,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 277,
+      "score": 36,
+      "steps": 455,
+      "avg_compute_time_ms": 0.03851230760299406,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 278,
+      "score": 42,
+      "steps": 493,
+      "avg_compute_time_ms": 0.03652150102661503,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 279,
+      "score": 50,
+      "steps": 543,
+      "avg_compute_time_ms": 0.03530920833061084,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 280,
+      "score": 42,
+      "steps": 437,
+      "avg_compute_time_ms": 0.03730732181964088,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 281,
+      "score": 34,
+      "steps": 432,
+      "avg_compute_time_ms": 0.038025462648268636,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 282,
+      "score": 53,
+      "steps": 703,
+      "avg_compute_time_ms": 0.04297453782767598,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 283,
+      "score": 51,
+      "steps": 685,
+      "avg_compute_time_ms": 0.039087006942042736,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 284,
+      "score": 40,
+      "steps": 397,
+      "avg_compute_time_ms": 0.03171335056574279,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 285,
+      "score": 56,
+      "steps": 701,
+      "avg_compute_time_ms": 0.04004636249164871,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 286,
+      "score": 58,
+      "steps": 746,
+      "avg_compute_time_ms": 0.03911273475707042,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 287,
+      "score": 37,
+      "steps": 433,
+      "avg_compute_time_ms": 0.03540484987760681,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 288,
+      "score": 33,
+      "steps": 365,
+      "avg_compute_time_ms": 0.03794328814327767,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 289,
+      "score": 71,
+      "steps": 916,
+      "avg_compute_time_ms": 0.03954705226338798,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 290,
+      "score": 44,
+      "steps": 493,
+      "avg_compute_time_ms": 0.036460852363093946,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 291,
+      "score": 40,
+      "steps": 469,
+      "avg_compute_time_ms": 0.03485138629695206,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 292,
+      "score": 37,
+      "steps": 382,
+      "avg_compute_time_ms": 0.03144947614786532,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 293,
+      "score": 60,
+      "steps": 739,
+      "avg_compute_time_ms": 0.03751921530101569,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 294,
+      "score": 38,
+      "steps": 475,
+      "avg_compute_time_ms": 0.039436210553455905,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 295,
+      "score": 78,
+      "steps": 1040,
+      "avg_compute_time_ms": 0.0428387499946089,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 296,
+      "score": 51,
+      "steps": 626,
+      "avg_compute_time_ms": 0.03759089446166893,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 297,
+      "score": 69,
+      "steps": 748,
+      "avg_compute_time_ms": 0.036285160506893704,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 298,
+      "score": 54,
+      "steps": 731,
+      "avg_compute_time_ms": 0.043061011995280625,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 299,
+      "score": 62,
+      "steps": 702,
+      "avg_compute_time_ms": 0.03592051296001379,
+      "max_steps_reached": false
+    }
+  ],
+  "stats": [
+    {
+      "controller_name": "BFS",
+      "num_games": 300,
+      "avg_score": 46.86,
+      "max_score": 87,
+      "min_score": 12,
+      "avg_steps": 565.3633333333333,
+      "avg_compute_time_ms": 0.0280721566670763,
+      "timeout_rate": 0.0
+    },
+    {
+      "controller_name": "Flood",
+      "num_games": 300,
+      "avg_score": 48.43333333333333,
+      "max_score": 79,
+      "min_score": 12,
+      "avg_steps": 586.2266666666667,
+      "avg_compute_time_ms": 0.03738327086731241,
+      "timeout_rate": 0.0
+    }
+  ],
+  "config": {
+    "grid_size": 15,
+    "num_games_per_controller": 300,
+    "max_steps": 10000,
+    "seed_offset": 0
+  }
+}

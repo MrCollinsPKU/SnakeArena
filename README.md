@@ -127,6 +127,22 @@ class MyController(Controller):
 
 ### 开发日志
 
+#### v1.0.0_2026-06-07
+- 加入初始菜单
+- 统一调整视觉风格
+
+#### v0.3.1_2026-06-05
+- 加入 `LookaheadController`, `WanderController`, `LookaheadController`
+    - 对 `FloodFillController` 的 `warn_rate` 参数进行测试，加入 `FloodFill_Report.md`
+
+#### v0.3.0_2026-06-04
+- 更新 `BFSController`
+    - 加入了 "shuffle_once", "per_node", "rotate", "no_shuffle" 四种 tie_breaker 策略参数
+    - 对策略进行评估，加入 `BFS_Benchmark_Report.md`
+- 加入 `AStarController`, `FloodFillController`, `LookaheadController`
+    - 对 `FloodFillController` 的 `warn_rate` 参数进行测试，加入 `FloodFill_Report.md`
+
+
 #### v0.2.1_2026-05-14
 - 更新 UI，加入信息栏
 

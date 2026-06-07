@@ -1,0 +1,4872 @@
+{
+  "records": [
+    {
+      "controller_name": "Drunk",
+      "seed": 0,
+      "score": 2,
+      "steps": 5010,
+      "avg_compute_time_ms": 0.0018717165764615482,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 1,
+      "score": 4,
+      "steps": 4653,
+      "avg_compute_time_ms": 0.00209084458566044,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 2,
+      "score": 5,
+      "steps": 8901,
+      "avg_compute_time_ms": 0.002247050898558456,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 3,
+      "score": 6,
+      "steps": 9246,
+      "avg_compute_time_ms": 0.0019104261330996502,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 4,
+      "score": 3,
+      "steps": 10741,
+      "avg_compute_time_ms": 0.0019033702853720692,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 5,
+      "score": 4,
+      "steps": 3734,
+      "avg_compute_time_ms": 0.0018985538336606252,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 6,
+      "score": 4,
+      "steps": 6423,
+      "avg_compute_time_ms": 0.002077315913448924,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 7,
+      "score": 7,
+      "steps": 1093,
+      "avg_compute_time_ms": 0.0020850868171382584,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 8,
+      "score": 3,
+      "steps": 2754,
+      "avg_compute_time_ms": 0.0020840231661201905,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 9,
+      "score": 2,
+      "steps": 5356,
+      "avg_compute_time_ms": 0.0018628827467407924,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 10,
+      "score": 6,
+      "steps": 1629,
+      "avg_compute_time_ms": 0.0020686311629001097,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 11,
+      "score": 2,
+      "steps": 1684,
+      "avg_compute_time_ms": 0.0018746437563786544,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 12,
+      "score": 2,
+      "steps": 7668,
+      "avg_compute_time_ms": 0.0019049556445550583,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 13,
+      "score": 6,
+      "steps": 7144,
+      "avg_compute_time_ms": 0.001938899770925749,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 14,
+      "score": 3,
+      "steps": 3365,
+      "avg_compute_time_ms": 0.001998454699328067,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 15,
+      "score": 6,
+      "steps": 8179,
+      "avg_compute_time_ms": 0.0019486489858210037,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 16,
+      "score": 6,
+      "steps": 5462,
+      "avg_compute_time_ms": 0.002094580754186721,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 17,
+      "score": 6,
+      "steps": 5905,
+      "avg_compute_time_ms": 0.0021556646422251184,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 18,
+      "score": 2,
+      "steps": 7268,
+      "avg_compute_time_ms": 0.0020991331989392297,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 19,
+      "score": 2,
+      "steps": 2188,
+      "avg_compute_time_ms": 0.002083820849396348,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 20,
+      "score": 2,
+      "steps": 1211,
+      "avg_compute_time_ms": 0.0018430223241375342,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 21,
+      "score": 6,
+      "steps": 6015,
+      "avg_compute_time_ms": 0.0019925020400749045,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 22,
+      "score": 6,
+      "steps": 3739,
+      "avg_compute_time_ms": 0.002062209131961201,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 23,
+      "score": 6,
+      "steps": 23042,
+      "avg_compute_time_ms": 0.0019355698042265981,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 24,
+      "score": 2,
+      "steps": 1182,
+      "avg_compute_time_ms": 0.0021364634781532213,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 25,
+      "score": 4,
+      "steps": 6401,
+      "avg_compute_time_ms": 0.0019208092601109808,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 26,
+      "score": 2,
+      "steps": 2023,
+      "avg_compute_time_ms": 0.0019141374177688909,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 27,
+      "score": 4,
+      "steps": 5393,
+      "avg_compute_time_ms": 0.002088392360104224,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 28,
+      "score": 4,
+      "steps": 9434,
+      "avg_compute_time_ms": 0.001973436529877613,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 29,
+      "score": 3,
+      "steps": 6011,
+      "avg_compute_time_ms": 0.0021963733176231623,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 30,
+      "score": 3,
+      "steps": 7346,
+      "avg_compute_time_ms": 0.0019303021763275555,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 31,
+      "score": 6,
+      "steps": 5274,
+      "avg_compute_time_ms": 0.0020995069644965726,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 32,
+      "score": 4,
+      "steps": 6291,
+      "avg_compute_time_ms": 0.002292703832002637,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 33,
+      "score": 5,
+      "steps": 4506,
+      "avg_compute_time_ms": 0.002116333760877743,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 34,
+      "score": 4,
+      "steps": 6429,
+      "avg_compute_time_ms": 0.001954549684760092,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 35,
+      "score": 3,
+      "steps": 7262,
+      "avg_compute_time_ms": 0.001966248979518899,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 36,
+      "score": 3,
+      "steps": 8227,
+      "avg_compute_time_ms": 0.001825914674507194,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 37,
+      "score": 3,
+      "steps": 1648,
+      "avg_compute_time_ms": 0.001973179559110612,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 38,
+      "score": 5,
+      "steps": 3997,
+      "avg_compute_time_ms": 0.0019357518105772792,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 39,
+      "score": 4,
+      "steps": 4132,
+      "avg_compute_time_ms": 0.0019988867283129565,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 40,
+      "score": 3,
+      "steps": 2922,
+      "avg_compute_time_ms": 0.0020406228539138374,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 41,
+      "score": 2,
+      "steps": 4230,
+      "avg_compute_time_ms": 0.001967943342769712,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 42,
+      "score": 2,
+      "steps": 7517,
+      "avg_compute_time_ms": 0.0019355461162878492,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 43,
+      "score": 5,
+      "steps": 6158,
+      "avg_compute_time_ms": 0.0019906300967403446,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 44,
+      "score": 6,
+      "steps": 3058,
+      "avg_compute_time_ms": 0.002344015673960378,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 45,
+      "score": 5,
+      "steps": 5120,
+      "avg_compute_time_ms": 0.0019553319546616876,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 46,
+      "score": 4,
+      "steps": 4140,
+      "avg_compute_time_ms": 0.001998647319078153,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 47,
+      "score": 2,
+      "steps": 2740,
+      "avg_compute_time_ms": 0.0018494160562060283,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 48,
+      "score": 5,
+      "steps": 9369,
+      "avg_compute_time_ms": 0.002001195437616229,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 49,
+      "score": 3,
+      "steps": 11131,
+      "avg_compute_time_ms": 0.0019352529146840743,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 50,
+      "score": 2,
+      "steps": 5761,
+      "avg_compute_time_ms": 0.0018923798270621837,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 51,
+      "score": 2,
+      "steps": 4370,
+      "avg_compute_time_ms": 0.002113363899512204,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 52,
+      "score": 5,
+      "steps": 6742,
+      "avg_compute_time_ms": 0.0019069267308739523,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 53,
+      "score": 4,
+      "steps": 8409,
+      "avg_compute_time_ms": 0.001863943409708898,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 54,
+      "score": 3,
+      "steps": 3736,
+      "avg_compute_time_ms": 0.0021439507426093264,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 55,
+      "score": 3,
+      "steps": 3721,
+      "avg_compute_time_ms": 0.0018588283355591843,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 56,
+      "score": 4,
+      "steps": 8090,
+      "avg_compute_time_ms": 0.0019297528406432445,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 57,
+      "score": 2,
+      "steps": 1335,
+      "avg_compute_time_ms": 0.0022236704377262165,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 58,
+      "score": 4,
+      "steps": 3109,
+      "avg_compute_time_ms": 0.001849244150547889,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 59,
+      "score": 2,
+      "steps": 5463,
+      "avg_compute_time_ms": 0.0018213435440936605,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 60,
+      "score": 4,
+      "steps": 1687,
+      "avg_compute_time_ms": 0.0020334321323925188,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 61,
+      "score": 2,
+      "steps": 956,
+      "avg_compute_time_ms": 0.0018284518244772738,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 62,
+      "score": 3,
+      "steps": 4260,
+      "avg_compute_time_ms": 0.0019923239320428043,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 63,
+      "score": 4,
+      "steps": 3456,
+      "avg_compute_time_ms": 0.002105642396246468,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 64,
+      "score": 4,
+      "steps": 3007,
+      "avg_compute_time_ms": 0.0019221150351412307,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 65,
+      "score": 4,
+      "steps": 5385,
+      "avg_compute_time_ms": 0.0019587186973575696,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 66,
+      "score": 5,
+      "steps": 7181,
+      "avg_compute_time_ms": 0.0020906141694444374,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 67,
+      "score": 5,
+      "steps": 4725,
+      "avg_compute_time_ms": 0.0020926137714740384,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 68,
+      "score": 2,
+      "steps": 5700,
+      "avg_compute_time_ms": 0.0018740350622050627,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 69,
+      "score": 6,
+      "steps": 4619,
+      "avg_compute_time_ms": 0.0021636068313630567,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 70,
+      "score": 3,
+      "steps": 7122,
+      "avg_compute_time_ms": 0.0018528362930572795,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 71,
+      "score": 5,
+      "steps": 9742,
+      "avg_compute_time_ms": 0.0018714843107130931,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 72,
+      "score": 3,
+      "steps": 3336,
+      "avg_compute_time_ms": 0.0020647182916801944,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 73,
+      "score": 5,
+      "steps": 7433,
+      "avg_compute_time_ms": 0.0020483385029496474,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 74,
+      "score": 4,
+      "steps": 7616,
+      "avg_compute_time_ms": 0.0019312499902099727,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 75,
+      "score": 4,
+      "steps": 5097,
+      "avg_compute_time_ms": 0.0018863253335642787,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 76,
+      "score": 4,
+      "steps": 6737,
+      "avg_compute_time_ms": 0.0021152590384778186,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 77,
+      "score": 2,
+      "steps": 2988,
+      "avg_compute_time_ms": 0.0018234270534388049,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 78,
+      "score": 5,
+      "steps": 4990,
+      "avg_compute_time_ms": 0.0021059518289320237,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 79,
+      "score": 5,
+      "steps": 5330,
+      "avg_compute_time_ms": 0.002067786206554195,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 80,
+      "score": 4,
+      "steps": 5998,
+      "avg_compute_time_ms": 0.002018356125223568,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 81,
+      "score": 2,
+      "steps": 5921,
+      "avg_compute_time_ms": 0.0019304847230798483,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 82,
+      "score": 5,
+      "steps": 3489,
+      "avg_compute_time_ms": 0.002074376664858623,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 83,
+      "score": 2,
+      "steps": 617,
+      "avg_compute_time_ms": 0.0018526742335203642,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 84,
+      "score": 2,
+      "steps": 7487,
+      "avg_compute_time_ms": 0.001887351423752929,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 85,
+      "score": 2,
+      "steps": 2194,
+      "avg_compute_time_ms": 0.002163810422776671,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 86,
+      "score": 4,
+      "steps": 3525,
+      "avg_compute_time_ms": 0.002028255241242706,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 87,
+      "score": 3,
+      "steps": 9074,
+      "avg_compute_time_ms": 0.0020378113414637345,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 88,
+      "score": 4,
+      "steps": 8315,
+      "avg_compute_time_ms": 0.001947143747512155,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 89,
+      "score": 2,
+      "steps": 3372,
+      "avg_compute_time_ms": 0.002188552803128476,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 90,
+      "score": 6,
+      "steps": 7840,
+      "avg_compute_time_ms": 0.0019304974631843518,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 91,
+      "score": 4,
+      "steps": 3466,
+      "avg_compute_time_ms": 0.0021444893010088015,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 92,
+      "score": 4,
+      "steps": 2054,
+      "avg_compute_time_ms": 0.002094741913019802,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 93,
+      "score": 4,
+      "steps": 4947,
+      "avg_compute_time_ms": 0.0018975338204625459,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 94,
+      "score": 4,
+      "steps": 5091,
+      "avg_compute_time_ms": 0.0020587310635888493,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 95,
+      "score": 3,
+      "steps": 11427,
+      "avg_compute_time_ms": 0.0019031067113194006,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 96,
+      "score": 5,
+      "steps": 4511,
+      "avg_compute_time_ms": 0.001987696732739695,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 97,
+      "score": 4,
+      "steps": 4989,
+      "avg_compute_time_ms": 0.001926578462304386,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 98,
+      "score": 4,
+      "steps": 4131,
+      "avg_compute_time_ms": 0.0022086904049293922,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Drunk",
+      "seed": 99,
+      "score": 3,
+      "steps": 4551,
+      "avg_compute_time_ms": 0.002023950793748769,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 0,
+      "score": 53,
+      "steps": 1162,
+      "avg_compute_time_ms": 0.0038540447552579417,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 1,
+      "score": 59,
+      "steps": 1415,
+      "avg_compute_time_ms": 0.004766713815507587,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 2,
+      "score": 34,
+      "steps": 663,
+      "avg_compute_time_ms": 0.0032698342824729826,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 3,
+      "score": 35,
+      "steps": 894,
+      "avg_compute_time_ms": 0.004791275100218408,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 4,
+      "score": 28,
+      "steps": 534,
+      "avg_compute_time_ms": 0.0030445693625827854,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 5,
+      "score": 50,
+      "steps": 1178,
+      "avg_compute_time_ms": 0.0038953310152747412,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 6,
+      "score": 32,
+      "steps": 722,
+      "avg_compute_time_ms": 0.0032502771180266273,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 7,
+      "score": 43,
+      "steps": 988,
+      "avg_compute_time_ms": 0.0034951414269709068,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 8,
+      "score": 10,
+      "steps": 187,
+      "avg_compute_time_ms": 0.0026887699443084953,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 9,
+      "score": 60,
+      "steps": 1486,
+      "avg_compute_time_ms": 0.0040656796804300855,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 10,
+      "score": 25,
+      "steps": 502,
+      "avg_compute_time_ms": 0.0030501990936663134,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 11,
+      "score": 32,
+      "steps": 632,
+      "avg_compute_time_ms": 0.003274525279496779,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 12,
+      "score": 63,
+      "steps": 1451,
+      "avg_compute_time_ms": 0.004261957330187637,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 13,
+      "score": 75,
+      "steps": 1831,
+      "avg_compute_time_ms": 0.004711578381583522,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 14,
+      "score": 41,
+      "steps": 950,
+      "avg_compute_time_ms": 0.0035872630006020985,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 15,
+      "score": 49,
+      "steps": 1126,
+      "avg_compute_time_ms": 0.0036439609818378063,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 16,
+      "score": 50,
+      "steps": 1127,
+      "avg_compute_time_ms": 0.003902040914532802,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 17,
+      "score": 44,
+      "steps": 1044,
+      "avg_compute_time_ms": 0.00382959773685735,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 18,
+      "score": 61,
+      "steps": 1362,
+      "avg_compute_time_ms": 0.0041412627730889875,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 19,
+      "score": 28,
+      "steps": 510,
+      "avg_compute_time_ms": 0.0031811763405772474,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 20,
+      "score": 47,
+      "steps": 1062,
+      "avg_compute_time_ms": 0.003747363491656904,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 21,
+      "score": 24,
+      "steps": 491,
+      "avg_compute_time_ms": 0.003021181180035646,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 22,
+      "score": 47,
+      "steps": 1023,
+      "avg_compute_time_ms": 0.003696187605984866,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 23,
+      "score": 22,
+      "steps": 507,
+      "avg_compute_time_ms": 0.002934714063200218,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 24,
+      "score": 34,
+      "steps": 771,
+      "avg_compute_time_ms": 0.0032909208758892406,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 25,
+      "score": 42,
+      "steps": 1002,
+      "avg_compute_time_ms": 0.0035135727701058046,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 26,
+      "score": 51,
+      "steps": 1157,
+      "avg_compute_time_ms": 0.003822904162206699,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 27,
+      "score": 50,
+      "steps": 1121,
+      "avg_compute_time_ms": 0.003846833158322227,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 28,
+      "score": 58,
+      "steps": 1248,
+      "avg_compute_time_ms": 0.004145913419798046,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 29,
+      "score": 33,
+      "steps": 601,
+      "avg_compute_time_ms": 0.0031667221025695495,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 30,
+      "score": 23,
+      "steps": 465,
+      "avg_compute_time_ms": 0.0029040859625374354,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 31,
+      "score": 10,
+      "steps": 199,
+      "avg_compute_time_ms": 0.002901507474262099,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 32,
+      "score": 47,
+      "steps": 950,
+      "avg_compute_time_ms": 0.003574105204806026,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 33,
+      "score": 43,
+      "steps": 819,
+      "avg_compute_time_ms": 0.003685347885274361,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 34,
+      "score": 29,
+      "steps": 502,
+      "avg_compute_time_ms": 0.0032886453127104463,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 35,
+      "score": 40,
+      "steps": 742,
+      "avg_compute_time_ms": 0.003742722433871236,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 36,
+      "score": 34,
+      "steps": 735,
+      "avg_compute_time_ms": 0.003240544273324792,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 37,
+      "score": 38,
+      "steps": 822,
+      "avg_compute_time_ms": 0.003683089992142489,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 38,
+      "score": 53,
+      "steps": 1175,
+      "avg_compute_time_ms": 0.004090978838305207,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 39,
+      "score": 33,
+      "steps": 621,
+      "avg_compute_time_ms": 0.0032434784122082837,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 40,
+      "score": 31,
+      "steps": 735,
+      "avg_compute_time_ms": 0.0032306123436998805,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 41,
+      "score": 46,
+      "steps": 1116,
+      "avg_compute_time_ms": 0.003672311866981825,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 42,
+      "score": 37,
+      "steps": 751,
+      "avg_compute_time_ms": 0.004208522180520673,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 43,
+      "score": 47,
+      "steps": 1024,
+      "avg_compute_time_ms": 0.0037104492491835117,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 44,
+      "score": 46,
+      "steps": 852,
+      "avg_compute_time_ms": 0.004304460128370297,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 45,
+      "score": 36,
+      "steps": 814,
+      "avg_compute_time_ms": 0.0033196560726432398,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 46,
+      "score": 44,
+      "steps": 931,
+      "avg_compute_time_ms": 0.0034791621037310733,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 47,
+      "score": 44,
+      "steps": 863,
+      "avg_compute_time_ms": 0.003646118116515407,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 48,
+      "score": 56,
+      "steps": 1187,
+      "avg_compute_time_ms": 0.0038453243763469274,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 49,
+      "score": 34,
+      "steps": 773,
+      "avg_compute_time_ms": 0.003901552348316347,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 50,
+      "score": 63,
+      "steps": 1479,
+      "avg_compute_time_ms": 0.004425828337917788,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 51,
+      "score": 40,
+      "steps": 865,
+      "avg_compute_time_ms": 0.004300462368692707,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 52,
+      "score": 45,
+      "steps": 861,
+      "avg_compute_time_ms": 0.0035573750472428552,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 53,
+      "score": 77,
+      "steps": 1856,
+      "avg_compute_time_ms": 0.0046582974846387515,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 54,
+      "score": 34,
+      "steps": 734,
+      "avg_compute_time_ms": 0.0033352861531574926,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 55,
+      "score": 33,
+      "steps": 637,
+      "avg_compute_time_ms": 0.003413500734334417,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 56,
+      "score": 22,
+      "steps": 494,
+      "avg_compute_time_ms": 0.003663360263524494,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 57,
+      "score": 27,
+      "steps": 548,
+      "avg_compute_time_ms": 0.0030098541227193128,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 58,
+      "score": 29,
+      "steps": 690,
+      "avg_compute_time_ms": 0.0031827536683219173,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 59,
+      "score": 38,
+      "steps": 845,
+      "avg_compute_time_ms": 0.0032901775540326605,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 60,
+      "score": 39,
+      "steps": 907,
+      "avg_compute_time_ms": 0.00360033069205878,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 61,
+      "score": 33,
+      "steps": 625,
+      "avg_compute_time_ms": 0.004224639863241464,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 62,
+      "score": 46,
+      "steps": 1053,
+      "avg_compute_time_ms": 0.003632288690389321,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 63,
+      "score": 53,
+      "steps": 1385,
+      "avg_compute_time_ms": 0.00406180505597937,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 64,
+      "score": 52,
+      "steps": 1261,
+      "avg_compute_time_ms": 0.0038856463573288106,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 65,
+      "score": 49,
+      "steps": 1169,
+      "avg_compute_time_ms": 0.0038461932678741997,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 66,
+      "score": 20,
+      "steps": 443,
+      "avg_compute_time_ms": 0.002723927582029682,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 67,
+      "score": 40,
+      "steps": 828,
+      "avg_compute_time_ms": 0.003583695690509197,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 68,
+      "score": 60,
+      "steps": 1506,
+      "avg_compute_time_ms": 0.0041008631667171095,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 69,
+      "score": 32,
+      "steps": 637,
+      "avg_compute_time_ms": 0.003443014085840352,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 70,
+      "score": 40,
+      "steps": 868,
+      "avg_compute_time_ms": 0.0035383640821354703,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 71,
+      "score": 42,
+      "steps": 873,
+      "avg_compute_time_ms": 0.0034741122733784532,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 72,
+      "score": 69,
+      "steps": 1624,
+      "avg_compute_time_ms": 0.005246182154940632,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 73,
+      "score": 44,
+      "steps": 897,
+      "avg_compute_time_ms": 0.003686733466003053,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 74,
+      "score": 20,
+      "steps": 431,
+      "avg_compute_time_ms": 0.002755452568827547,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 75,
+      "score": 34,
+      "steps": 675,
+      "avg_compute_time_ms": 0.003514370365775432,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 76,
+      "score": 49,
+      "steps": 1114,
+      "avg_compute_time_ms": 0.003656552987947769,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 77,
+      "score": 32,
+      "steps": 713,
+      "avg_compute_time_ms": 0.0031454418671577333,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 78,
+      "score": 37,
+      "steps": 804,
+      "avg_compute_time_ms": 0.0034829601772165446,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 79,
+      "score": 37,
+      "steps": 764,
+      "avg_compute_time_ms": 0.003482068044527224,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 80,
+      "score": 51,
+      "steps": 1059,
+      "avg_compute_time_ms": 0.003852030341555228,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 81,
+      "score": 45,
+      "steps": 975,
+      "avg_compute_time_ms": 0.00402123081491878,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 82,
+      "score": 37,
+      "steps": 765,
+      "avg_compute_time_ms": 0.0033542483221751704,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 83,
+      "score": 40,
+      "steps": 912,
+      "avg_compute_time_ms": 0.003622807095158159,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 84,
+      "score": 52,
+      "steps": 1145,
+      "avg_compute_time_ms": 0.0038468994530157785,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 85,
+      "score": 36,
+      "steps": 799,
+      "avg_compute_time_ms": 0.004192991212441077,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 86,
+      "score": 51,
+      "steps": 1203,
+      "avg_compute_time_ms": 0.0037684122198985166,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 87,
+      "score": 41,
+      "steps": 848,
+      "avg_compute_time_ms": 0.0038898586113508883,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 88,
+      "score": 47,
+      "steps": 1000,
+      "avg_compute_time_ms": 0.003824099992925767,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 89,
+      "score": 38,
+      "steps": 920,
+      "avg_compute_time_ms": 0.0033535869790838383,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 90,
+      "score": 38,
+      "steps": 833,
+      "avg_compute_time_ms": 0.0035941176575419605,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 91,
+      "score": 42,
+      "steps": 862,
+      "avg_compute_time_ms": 0.003984222739471421,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 92,
+      "score": 28,
+      "steps": 544,
+      "avg_compute_time_ms": 0.004076470665548935,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 93,
+      "score": 51,
+      "steps": 1259,
+      "avg_compute_time_ms": 0.003886020594317913,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 94,
+      "score": 60,
+      "steps": 1367,
+      "avg_compute_time_ms": 0.004047622278502351,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 95,
+      "score": 56,
+      "steps": 1179,
+      "avg_compute_time_ms": 0.00410245973535871,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 96,
+      "score": 57,
+      "steps": 1299,
+      "avg_compute_time_ms": 0.003998537251112439,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 97,
+      "score": 48,
+      "steps": 1271,
+      "avg_compute_time_ms": 0.0037800943969241853,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 98,
+      "score": 38,
+      "steps": 839,
+      "avg_compute_time_ms": 0.003454112002048286,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Greedy",
+      "seed": 99,
+      "score": 51,
+      "steps": 1108,
+      "avg_compute_time_ms": 0.0041486462788313415,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 0,
+      "score": 108,
+      "steps": 2566,
+      "avg_compute_time_ms": 0.10915919722274105,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 1,
+      "score": 117,
+      "steps": 2775,
+      "avg_compute_time_ms": 0.10194302705139643,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 2,
+      "score": 65,
+      "steps": 1323,
+      "avg_compute_time_ms": 0.10103204830112154,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 3,
+      "score": 126,
+      "steps": 2957,
+      "avg_compute_time_ms": 0.10405837002687948,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 4,
+      "score": 118,
+      "steps": 2753,
+      "avg_compute_time_ms": 0.1019867780239523,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 5,
+      "score": 62,
+      "steps": 1326,
+      "avg_compute_time_ms": 0.09957209652989293,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 6,
+      "score": 140,
+      "steps": 3484,
+      "avg_compute_time_ms": 0.11021257173665612,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 7,
+      "score": 104,
+      "steps": 2438,
+      "avg_compute_time_ms": 0.09498802301080644,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 8,
+      "score": 111,
+      "steps": 2478,
+      "avg_compute_time_ms": 0.09557953995473129,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 9,
+      "score": 36,
+      "steps": 720,
+      "avg_compute_time_ms": 0.09241708327560143,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 10,
+      "score": 129,
+      "steps": 3116,
+      "avg_compute_time_ms": 0.10967483949255803,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 11,
+      "score": 150,
+      "steps": 3750,
+      "avg_compute_time_ms": 0.1093176266818773,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 12,
+      "score": 105,
+      "steps": 2628,
+      "avg_compute_time_ms": 0.11681898779411998,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 13,
+      "score": 114,
+      "steps": 2573,
+      "avg_compute_time_ms": 0.10891294210135366,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 14,
+      "score": 134,
+      "steps": 3165,
+      "avg_compute_time_ms": 0.11510344391477574,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 15,
+      "score": 130,
+      "steps": 3118,
+      "avg_compute_time_ms": 0.1081922065361428,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 16,
+      "score": 113,
+      "steps": 2603,
+      "avg_compute_time_ms": 0.10421943921344286,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 17,
+      "score": 122,
+      "steps": 2680,
+      "avg_compute_time_ms": 0.10337932829166512,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 18,
+      "score": 141,
+      "steps": 3451,
+      "avg_compute_time_ms": 0.10677852805130944,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 19,
+      "score": 84,
+      "steps": 1863,
+      "avg_compute_time_ms": 0.10614707465772853,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 20,
+      "score": 69,
+      "steps": 1327,
+      "avg_compute_time_ms": 0.08789367005109686,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 21,
+      "score": 93,
+      "steps": 2063,
+      "avg_compute_time_ms": 0.09786878336918794,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 22,
+      "score": 121,
+      "steps": 2967,
+      "avg_compute_time_ms": 0.16854482654384897,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 23,
+      "score": 125,
+      "steps": 2961,
+      "avg_compute_time_ms": 0.16750739622070576,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 24,
+      "score": 66,
+      "steps": 1437,
+      "avg_compute_time_ms": 0.16655128738882927,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 25,
+      "score": 101,
+      "steps": 2245,
+      "avg_compute_time_ms": 0.14078360807227347,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 26,
+      "score": 87,
+      "steps": 1999,
+      "avg_compute_time_ms": 0.16223041514778466,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 27,
+      "score": 128,
+      "steps": 2801,
+      "avg_compute_time_ms": 0.15180863969994562,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 28,
+      "score": 71,
+      "steps": 1457,
+      "avg_compute_time_ms": 0.14098798896489037,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 29,
+      "score": 108,
+      "steps": 2494,
+      "avg_compute_time_ms": 0.1667092221677688,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 30,
+      "score": 85,
+      "steps": 1848,
+      "avg_compute_time_ms": 0.15765876621207617,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 31,
+      "score": 106,
+      "steps": 2338,
+      "avg_compute_time_ms": 0.1455106073996688,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 32,
+      "score": 96,
+      "steps": 2216,
+      "avg_compute_time_ms": 0.14893939528470443,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 33,
+      "score": 121,
+      "steps": 2663,
+      "avg_compute_time_ms": 0.13028944788768732,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 34,
+      "score": 86,
+      "steps": 1819,
+      "avg_compute_time_ms": 0.14905810885161053,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 35,
+      "score": 90,
+      "steps": 1987,
+      "avg_compute_time_ms": 0.14124916960514808,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 36,
+      "score": 118,
+      "steps": 2665,
+      "avg_compute_time_ms": 0.14487148212761694,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 37,
+      "score": 45,
+      "steps": 879,
+      "avg_compute_time_ms": 0.14822650725640193,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 38,
+      "score": 108,
+      "steps": 2353,
+      "avg_compute_time_ms": 0.1452305141483745,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 39,
+      "score": 165,
+      "steps": 3862,
+      "avg_compute_time_ms": 0.14887837907334667,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 40,
+      "score": 110,
+      "steps": 2443,
+      "avg_compute_time_ms": 0.1513634056427199,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 41,
+      "score": 125,
+      "steps": 3087,
+      "avg_compute_time_ms": 0.15063278271247152,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 42,
+      "score": 115,
+      "steps": 2859,
+      "avg_compute_time_ms": 0.16399520814914587,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 43,
+      "score": 108,
+      "steps": 2308,
+      "avg_compute_time_ms": 0.13707413342374317,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 44,
+      "score": 93,
+      "steps": 2257,
+      "avg_compute_time_ms": 0.1558374391369832,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 45,
+      "score": 85,
+      "steps": 1799,
+      "avg_compute_time_ms": 0.14794052245667158,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 46,
+      "score": 126,
+      "steps": 2984,
+      "avg_compute_time_ms": 0.1515609249487053,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 47,
+      "score": 112,
+      "steps": 2488,
+      "avg_compute_time_ms": 0.13979469456612503,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 48,
+      "score": 95,
+      "steps": 2059,
+      "avg_compute_time_ms": 0.14409718311546918,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 49,
+      "score": 112,
+      "steps": 2572,
+      "avg_compute_time_ms": 0.14296850706929065,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 50,
+      "score": 56,
+      "steps": 1069,
+      "avg_compute_time_ms": 0.13036744612342283,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 51,
+      "score": 95,
+      "steps": 2290,
+      "avg_compute_time_ms": 0.1599539738263087,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 52,
+      "score": 90,
+      "steps": 2042,
+      "avg_compute_time_ms": 0.14249505391286846,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 53,
+      "score": 78,
+      "steps": 1640,
+      "avg_compute_time_ms": 0.15679560975713241,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 54,
+      "score": 97,
+      "steps": 2203,
+      "avg_compute_time_ms": 0.15097362693478775,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 55,
+      "score": 114,
+      "steps": 2546,
+      "avg_compute_time_ms": 0.13830459548699253,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 56,
+      "score": 108,
+      "steps": 2553,
+      "avg_compute_time_ms": 0.1558191147792723,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 57,
+      "score": 122,
+      "steps": 2746,
+      "avg_compute_time_ms": 0.15147283319991794,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 58,
+      "score": 49,
+      "steps": 891,
+      "avg_compute_time_ms": 0.13396184058426425,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 59,
+      "score": 136,
+      "steps": 3295,
+      "avg_compute_time_ms": 0.14431004553398386,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 60,
+      "score": 147,
+      "steps": 3704,
+      "avg_compute_time_ms": 0.1581856102320455,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 61,
+      "score": 132,
+      "steps": 3129,
+      "avg_compute_time_ms": 0.1585381272338105,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 62,
+      "score": 118,
+      "steps": 2831,
+      "avg_compute_time_ms": 0.14985849522333822,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 63,
+      "score": 135,
+      "steps": 2867,
+      "avg_compute_time_ms": 0.13425423785101512,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 64,
+      "score": 116,
+      "steps": 2679,
+      "avg_compute_time_ms": 0.14813131764266496,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 65,
+      "score": 95,
+      "steps": 2205,
+      "avg_compute_time_ms": 0.16374888890206418,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 66,
+      "score": 82,
+      "steps": 1767,
+      "avg_compute_time_ms": 0.13880639497807246,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 67,
+      "score": 128,
+      "steps": 3122,
+      "avg_compute_time_ms": 0.16636008974141606,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 68,
+      "score": 126,
+      "steps": 3102,
+      "avg_compute_time_ms": 0.17148584786503124,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 69,
+      "score": 98,
+      "steps": 2197,
+      "avg_compute_time_ms": 0.1590757852428795,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 70,
+      "score": 39,
+      "steps": 878,
+      "avg_compute_time_ms": 0.1836675399313612,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 71,
+      "score": 107,
+      "steps": 2604,
+      "avg_compute_time_ms": 0.14732945473029918,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 72,
+      "score": 85,
+      "steps": 1915,
+      "avg_compute_time_ms": 0.16720626641453337,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 73,
+      "score": 104,
+      "steps": 2443,
+      "avg_compute_time_ms": 0.16840839122781912,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 74,
+      "score": 144,
+      "steps": 3506,
+      "avg_compute_time_ms": 0.15128961784132378,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 75,
+      "score": 84,
+      "steps": 1760,
+      "avg_compute_time_ms": 0.13864562510703266,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 76,
+      "score": 143,
+      "steps": 3170,
+      "avg_compute_time_ms": 0.1415192428659552,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 77,
+      "score": 126,
+      "steps": 3384,
+      "avg_compute_time_ms": 0.16685505321074054,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 78,
+      "score": 106,
+      "steps": 2507,
+      "avg_compute_time_ms": 0.15916581575577748,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 79,
+      "score": 132,
+      "steps": 3321,
+      "avg_compute_time_ms": 0.14779581447039458,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 80,
+      "score": 171,
+      "steps": 4098,
+      "avg_compute_time_ms": 0.15184409479658803,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 81,
+      "score": 125,
+      "steps": 2924,
+      "avg_compute_time_ms": 0.14180943921822944,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 82,
+      "score": 138,
+      "steps": 3262,
+      "avg_compute_time_ms": 0.1440265786549518,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 83,
+      "score": 112,
+      "steps": 2341,
+      "avg_compute_time_ms": 0.13975792402012288,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 84,
+      "score": 142,
+      "steps": 3524,
+      "avg_compute_time_ms": 0.1570715947466425,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 85,
+      "score": 104,
+      "steps": 2506,
+      "avg_compute_time_ms": 0.16241436554533367,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 86,
+      "score": 137,
+      "steps": 3504,
+      "avg_compute_time_ms": 0.1584857876998667,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 87,
+      "score": 125,
+      "steps": 3012,
+      "avg_compute_time_ms": 0.15251716460654163,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 88,
+      "score": 83,
+      "steps": 1877,
+      "avg_compute_time_ms": 0.16106473099154167,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 89,
+      "score": 175,
+      "steps": 4786,
+      "avg_compute_time_ms": 0.16969231090984327,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 90,
+      "score": 118,
+      "steps": 2862,
+      "avg_compute_time_ms": 0.16409517817629096,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 91,
+      "score": 146,
+      "steps": 3728,
+      "avg_compute_time_ms": 0.15722569735697522,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 92,
+      "score": 153,
+      "steps": 4358,
+      "avg_compute_time_ms": 0.17141883891481513,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 93,
+      "score": 89,
+      "steps": 2102,
+      "avg_compute_time_ms": 0.15696279737759106,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 94,
+      "score": 124,
+      "steps": 3090,
+      "avg_compute_time_ms": 0.15894233006925598,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 95,
+      "score": 139,
+      "steps": 3460,
+      "avg_compute_time_ms": 0.15357132937834528,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 96,
+      "score": 88,
+      "steps": 1726,
+      "avg_compute_time_ms": 0.12368910783334708,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 97,
+      "score": 119,
+      "steps": 2900,
+      "avg_compute_time_ms": 0.15216213789997332,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 98,
+      "score": 111,
+      "steps": 2497,
+      "avg_compute_time_ms": 0.14290404485106042,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "BFS",
+      "seed": 99,
+      "score": 70,
+      "steps": 1505,
+      "avg_compute_time_ms": 0.1596560798853441,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 0,
+      "score": 108,
+      "steps": 2566,
+      "avg_compute_time_ms": 0.19143655484150993,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 1,
+      "score": 141,
+      "steps": 3519,
+      "avg_compute_time_ms": 0.20003895993776472,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 2,
+      "score": 65,
+      "steps": 1323,
+      "avg_compute_time_ms": 0.17039455787207614,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 3,
+      "score": 174,
+      "steps": 4890,
+      "avg_compute_time_ms": 0.21801302663909064,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 4,
+      "score": 190,
+      "steps": 5384,
+      "avg_compute_time_ms": 0.20557264115957696,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 5,
+      "score": 138,
+      "steps": 2911,
+      "avg_compute_time_ms": 0.1713519752338058,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 6,
+      "score": 80,
+      "steps": 1807,
+      "avg_compute_time_ms": 0.19097697838102237,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 7,
+      "score": 128,
+      "steps": 3197,
+      "avg_compute_time_ms": 0.17790847664066375,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 8,
+      "score": 99,
+      "steps": 2278,
+      "avg_compute_time_ms": 0.17842089557595353,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 9,
+      "score": 36,
+      "steps": 720,
+      "avg_compute_time_ms": 0.14603722227346022,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 10,
+      "score": 100,
+      "steps": 2098,
+      "avg_compute_time_ms": 0.16841053390008504,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 11,
+      "score": 90,
+      "steps": 2177,
+      "avg_compute_time_ms": 0.18620753329947545,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 12,
+      "score": 109,
+      "steps": 2827,
+      "avg_compute_time_ms": 0.20531276961488582,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 13,
+      "score": 114,
+      "steps": 2573,
+      "avg_compute_time_ms": 0.1785228138030007,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 14,
+      "score": 166,
+      "steps": 4588,
+      "avg_compute_time_ms": 0.21396687006831944,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 15,
+      "score": 96,
+      "steps": 2487,
+      "avg_compute_time_ms": 0.18343892242940338,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 16,
+      "score": 113,
+      "steps": 2603,
+      "avg_compute_time_ms": 0.17504932773246742,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 17,
+      "score": 122,
+      "steps": 2680,
+      "avg_compute_time_ms": 0.16791231339708762,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 18,
+      "score": 127,
+      "steps": 2933,
+      "avg_compute_time_ms": 0.17031977494184386,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 19,
+      "score": 84,
+      "steps": 1863,
+      "avg_compute_time_ms": 0.16857632840156228,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 20,
+      "score": 69,
+      "steps": 1327,
+      "avg_compute_time_ms": 0.14432170304419584,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 21,
+      "score": 93,
+      "steps": 2063,
+      "avg_compute_time_ms": 0.15769636463564068,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 22,
+      "score": 102,
+      "steps": 2419,
+      "avg_compute_time_ms": 0.18521318721534732,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 23,
+      "score": 135,
+      "steps": 3283,
+      "avg_compute_time_ms": 0.2005526957499379,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 24,
+      "score": 66,
+      "steps": 1437,
+      "avg_compute_time_ms": 0.19566931104139737,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 25,
+      "score": 101,
+      "steps": 2245,
+      "avg_compute_time_ms": 0.17092365264710566,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 26,
+      "score": 87,
+      "steps": 1999,
+      "avg_compute_time_ms": 0.19507378682869442,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 27,
+      "score": 128,
+      "steps": 2801,
+      "avg_compute_time_ms": 0.19036097817239891,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 28,
+      "score": 71,
+      "steps": 1457,
+      "avg_compute_time_ms": 0.1611717227490746,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 29,
+      "score": 108,
+      "steps": 2494,
+      "avg_compute_time_ms": 0.1870660786151708,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 30,
+      "score": 88,
+      "steps": 1891,
+      "avg_compute_time_ms": 0.18426134333290659,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 31,
+      "score": 106,
+      "steps": 2338,
+      "avg_compute_time_ms": 0.17106163390500131,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 32,
+      "score": 96,
+      "steps": 2216,
+      "avg_compute_time_ms": 0.1729072202795821,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 33,
+      "score": 121,
+      "steps": 2663,
+      "avg_compute_time_ms": 0.16462891473044658,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 34,
+      "score": 86,
+      "steps": 1819,
+      "avg_compute_time_ms": 0.17577075316210894,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 35,
+      "score": 90,
+      "steps": 1987,
+      "avg_compute_time_ms": 0.16512858567162494,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 36,
+      "score": 111,
+      "steps": 2485,
+      "avg_compute_time_ms": 0.17850273639847705,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 37,
+      "score": 45,
+      "steps": 879,
+      "avg_compute_time_ms": 0.16343435724031455,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 38,
+      "score": 89,
+      "steps": 1936,
+      "avg_compute_time_ms": 0.1728124483040217,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 39,
+      "score": 133,
+      "steps": 3111,
+      "avg_compute_time_ms": 0.184218482852233,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 40,
+      "score": 156,
+      "steps": 3741,
+      "avg_compute_time_ms": 0.1967274792138507,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 41,
+      "score": 133,
+      "steps": 3376,
+      "avg_compute_time_ms": 0.22007917643470776,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 42,
+      "score": 103,
+      "steps": 2283,
+      "avg_compute_time_ms": 0.19076890056472792,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 43,
+      "score": 108,
+      "steps": 2308,
+      "avg_compute_time_ms": 0.1662358318380261,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 44,
+      "score": 100,
+      "steps": 2636,
+      "avg_compute_time_ms": 0.20320800466087402,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 45,
+      "score": 85,
+      "steps": 1799,
+      "avg_compute_time_ms": 0.18005230674481826,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 46,
+      "score": 78,
+      "steps": 1770,
+      "avg_compute_time_ms": 0.17769248584893108,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 47,
+      "score": 117,
+      "steps": 2687,
+      "avg_compute_time_ms": 0.19068068474888433,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 48,
+      "score": 95,
+      "steps": 2059,
+      "avg_compute_time_ms": 0.17723069450096104,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 49,
+      "score": 100,
+      "steps": 2246,
+      "avg_compute_time_ms": 0.17248205702389774,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 50,
+      "score": 56,
+      "steps": 1069,
+      "avg_compute_time_ms": 0.14999710009028216,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 51,
+      "score": 95,
+      "steps": 2348,
+      "avg_compute_time_ms": 0.18552589432887825,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 52,
+      "score": 90,
+      "steps": 2042,
+      "avg_compute_time_ms": 0.16520426057231336,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 53,
+      "score": 78,
+      "steps": 1640,
+      "avg_compute_time_ms": 0.18134384152778316,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 54,
+      "score": 97,
+      "steps": 2203,
+      "avg_compute_time_ms": 0.1758307306893585,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 55,
+      "score": 112,
+      "steps": 2581,
+      "avg_compute_time_ms": 0.1770843470015634,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 56,
+      "score": 78,
+      "steps": 1930,
+      "avg_compute_time_ms": 0.1934063212921628,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 57,
+      "score": 125,
+      "steps": 2798,
+      "avg_compute_time_ms": 0.1853895281639807,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 58,
+      "score": 49,
+      "steps": 891,
+      "avg_compute_time_ms": 0.159044107766187,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 59,
+      "score": 114,
+      "steps": 2573,
+      "avg_compute_time_ms": 0.16993264671999386,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 60,
+      "score": 89,
+      "steps": 1938,
+      "avg_compute_time_ms": 0.18116568617704246,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 61,
+      "score": 160,
+      "steps": 4225,
+      "avg_compute_time_ms": 0.20700814205699894,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 62,
+      "score": 126,
+      "steps": 3030,
+      "avg_compute_time_ms": 0.18189940595343898,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 63,
+      "score": 104,
+      "steps": 2151,
+      "avg_compute_time_ms": 0.1604050673763978,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 64,
+      "score": 116,
+      "steps": 2679,
+      "avg_compute_time_ms": 0.17827898462682518,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 65,
+      "score": 95,
+      "steps": 2205,
+      "avg_compute_time_ms": 0.18855850345586045,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 66,
+      "score": 111,
+      "steps": 2540,
+      "avg_compute_time_ms": 0.16798370078769348,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 67,
+      "score": 131,
+      "steps": 3089,
+      "avg_compute_time_ms": 0.1880469407270121,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 68,
+      "score": 139,
+      "steps": 3558,
+      "avg_compute_time_ms": 0.205351883089198,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 69,
+      "score": 104,
+      "steps": 2409,
+      "avg_compute_time_ms": 0.1845805729378524,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 70,
+      "score": 39,
+      "steps": 878,
+      "avg_compute_time_ms": 0.19270250557047786,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 71,
+      "score": 107,
+      "steps": 2604,
+      "avg_compute_time_ms": 0.17738582954778045,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 72,
+      "score": 97,
+      "steps": 2203,
+      "avg_compute_time_ms": 0.1804594642891869,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 73,
+      "score": 141,
+      "steps": 3628,
+      "avg_compute_time_ms": 0.20862910693342326,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 74,
+      "score": 137,
+      "steps": 3076,
+      "avg_compute_time_ms": 0.1764671001390132,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 75,
+      "score": 122,
+      "steps": 2936,
+      "avg_compute_time_ms": 0.18729516350330655,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 76,
+      "score": 143,
+      "steps": 3170,
+      "avg_compute_time_ms": 0.18050829652112568,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 77,
+      "score": 148,
+      "steps": 3616,
+      "avg_compute_time_ms": 0.18431880529275818,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 78,
+      "score": 106,
+      "steps": 2507,
+      "avg_compute_time_ms": 0.19174152371852252,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 79,
+      "score": 132,
+      "steps": 3321,
+      "avg_compute_time_ms": 0.18359855472309883,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 80,
+      "score": 136,
+      "steps": 3338,
+      "avg_compute_time_ms": 0.18665644101291928,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 81,
+      "score": 98,
+      "steps": 2143,
+      "avg_compute_time_ms": 0.1645195987398249,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 82,
+      "score": 132,
+      "steps": 3186,
+      "avg_compute_time_ms": 0.19064639048447043,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 83,
+      "score": 87,
+      "steps": 1980,
+      "avg_compute_time_ms": 0.17573505061922,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 84,
+      "score": 163,
+      "steps": 4550,
+      "avg_compute_time_ms": 0.21181125273789883,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 85,
+      "score": 104,
+      "steps": 2506,
+      "avg_compute_time_ms": 0.1857079808128593,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 86,
+      "score": 100,
+      "steps": 2141,
+      "avg_compute_time_ms": 0.16610882762402587,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 87,
+      "score": 109,
+      "steps": 2518,
+      "avg_compute_time_ms": 0.17913784746750927,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 88,
+      "score": 83,
+      "steps": 1877,
+      "avg_compute_time_ms": 0.18565141176615732,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 89,
+      "score": 144,
+      "steps": 3618,
+      "avg_compute_time_ms": 0.19485251520084776,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 90,
+      "score": 118,
+      "steps": 2862,
+      "avg_compute_time_ms": 0.18900607969772718,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 91,
+      "score": 111,
+      "steps": 2593,
+      "avg_compute_time_ms": 0.17417878898504816,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 92,
+      "score": 143,
+      "steps": 3941,
+      "avg_compute_time_ms": 0.2088787870964759,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 93,
+      "score": 89,
+      "steps": 2102,
+      "avg_compute_time_ms": 0.17908044721564914,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 94,
+      "score": 97,
+      "steps": 2361,
+      "avg_compute_time_ms": 0.18590576035961762,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 95,
+      "score": 112,
+      "steps": 2667,
+      "avg_compute_time_ms": 0.188193025906429,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 96,
+      "score": 64,
+      "steps": 1255,
+      "avg_compute_time_ms": 0.14279689235715715,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 97,
+      "score": 119,
+      "steps": 2900,
+      "avg_compute_time_ms": 0.17783989661156424,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 98,
+      "score": 128,
+      "steps": 2953,
+      "avg_compute_time_ms": 0.16758726713470887,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Flood",
+      "seed": 99,
+      "score": 70,
+      "steps": 1505,
+      "avg_compute_time_ms": 0.18132378746452973,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 0,
+      "score": 130,
+      "steps": 3239,
+      "avg_compute_time_ms": 0.10207906764231185,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 1,
+      "score": 142,
+      "steps": 3725,
+      "avg_compute_time_ms": 0.12885242946494382,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 2,
+      "score": 91,
+      "steps": 1998,
+      "avg_compute_time_ms": 0.07744354344733122,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 3,
+      "score": 104,
+      "steps": 2561,
+      "avg_compute_time_ms": 0.1083124170172514,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 4,
+      "score": 86,
+      "steps": 1967,
+      "avg_compute_time_ms": 0.09497264868567494,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 5,
+      "score": 81,
+      "steps": 1879,
+      "avg_compute_time_ms": 0.09235572115808231,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 6,
+      "score": 97,
+      "steps": 2268,
+      "avg_compute_time_ms": 0.07050383588147939,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 7,
+      "score": 94,
+      "steps": 2110,
+      "avg_compute_time_ms": 0.0754103791201763,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 8,
+      "score": 129,
+      "steps": 3092,
+      "avg_compute_time_ms": 0.07144631316149963,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 9,
+      "score": 131,
+      "steps": 3560,
+      "avg_compute_time_ms": 0.08571432585433306,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 10,
+      "score": 83,
+      "steps": 1844,
+      "avg_compute_time_ms": 0.04489821051260676,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 11,
+      "score": 100,
+      "steps": 2435,
+      "avg_compute_time_ms": 0.058417248410422326,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 12,
+      "score": 107,
+      "steps": 2464,
+      "avg_compute_time_ms": 0.06642491882610249,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 13,
+      "score": 90,
+      "steps": 2078,
+      "avg_compute_time_ms": 0.049597305183428184,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 14,
+      "score": 42,
+      "steps": 952,
+      "avg_compute_time_ms": 0.043026785701726064,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 15,
+      "score": 90,
+      "steps": 2128,
+      "avg_compute_time_ms": 0.06743416347455793,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 16,
+      "score": 146,
+      "steps": 3899,
+      "avg_compute_time_ms": 0.08809571689503601,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 17,
+      "score": 127,
+      "steps": 3112,
+      "avg_compute_time_ms": 0.08328258349685294,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 18,
+      "score": 121,
+      "steps": 2872,
+      "avg_compute_time_ms": 0.0734541434866208,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 19,
+      "score": 97,
+      "steps": 1962,
+      "avg_compute_time_ms": 0.047241998018464786,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 20,
+      "score": 121,
+      "steps": 3124,
+      "avg_compute_time_ms": 0.08273485917938236,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 21,
+      "score": 92,
+      "steps": 2214,
+      "avg_compute_time_ms": 0.05665307149189346,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 22,
+      "score": 121,
+      "steps": 2769,
+      "avg_compute_time_ms": 0.05838078726930194,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 23,
+      "score": 157,
+      "steps": 4229,
+      "avg_compute_time_ms": 0.08277167178335655,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 24,
+      "score": 92,
+      "steps": 1993,
+      "avg_compute_time_ms": 0.05199698930868166,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 25,
+      "score": 69,
+      "steps": 1527,
+      "avg_compute_time_ms": 0.050862213510857714,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 26,
+      "score": 71,
+      "steps": 1608,
+      "avg_compute_time_ms": 0.05233451485936762,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 27,
+      "score": 62,
+      "steps": 1371,
+      "avg_compute_time_ms": 0.040815317235728434,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 28,
+      "score": 102,
+      "steps": 2343,
+      "avg_compute_time_ms": 0.06036559967210355,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 29,
+      "score": 163,
+      "steps": 4548,
+      "avg_compute_time_ms": 0.10067156987340162,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 30,
+      "score": 100,
+      "steps": 2283,
+      "avg_compute_time_ms": 0.08732233903581091,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 31,
+      "score": 111,
+      "steps": 2512,
+      "avg_compute_time_ms": 0.06405832001019586,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 32,
+      "score": 129,
+      "steps": 3094,
+      "avg_compute_time_ms": 0.06768177119048334,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 33,
+      "score": 95,
+      "steps": 2039,
+      "avg_compute_time_ms": 0.0549658163838443,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 34,
+      "score": 117,
+      "steps": 2456,
+      "avg_compute_time_ms": 0.05760822477303494,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 35,
+      "score": 145,
+      "steps": 3579,
+      "avg_compute_time_ms": 0.07371975413567071,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 36,
+      "score": 36,
+      "steps": 793,
+      "avg_compute_time_ms": 0.043883480479257254,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 37,
+      "score": 106,
+      "steps": 2356,
+      "avg_compute_time_ms": 0.059645543377850434,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 38,
+      "score": 53,
+      "steps": 1152,
+      "avg_compute_time_ms": 0.04350911456817307,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 39,
+      "score": 106,
+      "steps": 2422,
+      "avg_compute_time_ms": 0.05606985955032778,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 40,
+      "score": 100,
+      "steps": 2572,
+      "avg_compute_time_ms": 0.058236002983411514,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 41,
+      "score": 121,
+      "steps": 2925,
+      "avg_compute_time_ms": 0.06497733328793931,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 42,
+      "score": 117,
+      "steps": 2661,
+      "avg_compute_time_ms": 0.060550582380953975,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 43,
+      "score": 131,
+      "steps": 2900,
+      "avg_compute_time_ms": 0.05791675859654788,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 44,
+      "score": 128,
+      "steps": 2958,
+      "avg_compute_time_ms": 0.06625162272911961,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 45,
+      "score": 52,
+      "steps": 1108,
+      "avg_compute_time_ms": 0.04639350169818236,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 46,
+      "score": 100,
+      "steps": 2168,
+      "avg_compute_time_ms": 0.043858256430047905,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 47,
+      "score": 87,
+      "steps": 1796,
+      "avg_compute_time_ms": 0.0448410912966672,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 48,
+      "score": 110,
+      "steps": 2647,
+      "avg_compute_time_ms": 0.07969214205571981,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 49,
+      "score": 96,
+      "steps": 2154,
+      "avg_compute_time_ms": 0.07049099347783194,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 50,
+      "score": 97,
+      "steps": 2176,
+      "avg_compute_time_ms": 0.05370496324985652,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 51,
+      "score": 40,
+      "steps": 830,
+      "avg_compute_time_ms": 0.044873373448660776,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 52,
+      "score": 117,
+      "steps": 2876,
+      "avg_compute_time_ms": 0.06054155081008209,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 53,
+      "score": 53,
+      "steps": 1123,
+      "avg_compute_time_ms": 0.047180676688286724,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 54,
+      "score": 135,
+      "steps": 3290,
+      "avg_compute_time_ms": 0.08575379942735942,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 55,
+      "score": 111,
+      "steps": 2472,
+      "avg_compute_time_ms": 0.05940271031723601,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 56,
+      "score": 108,
+      "steps": 2595,
+      "avg_compute_time_ms": 0.06584331408046143,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 57,
+      "score": 104,
+      "steps": 2493,
+      "avg_compute_time_ms": 0.1123681508831994,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 58,
+      "score": 61,
+      "steps": 1417,
+      "avg_compute_time_ms": 0.048291602012328017,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 59,
+      "score": 119,
+      "steps": 2956,
+      "avg_compute_time_ms": 0.08712567661825334,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 60,
+      "score": 79,
+      "steps": 1788,
+      "avg_compute_time_ms": 0.05476979864474753,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 61,
+      "score": 152,
+      "steps": 3695,
+      "avg_compute_time_ms": 0.0815369959328171,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 62,
+      "score": 107,
+      "steps": 2631,
+      "avg_compute_time_ms": 0.07339673136017671,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 63,
+      "score": 73,
+      "steps": 1755,
+      "avg_compute_time_ms": 0.06098153837094152,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 64,
+      "score": 54,
+      "steps": 1152,
+      "avg_compute_time_ms": 0.04441553810844804,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 65,
+      "score": 122,
+      "steps": 2818,
+      "avg_compute_time_ms": 0.05710674234311231,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 66,
+      "score": 26,
+      "steps": 504,
+      "avg_compute_time_ms": 0.04025912702283157,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 67,
+      "score": 89,
+      "steps": 1898,
+      "avg_compute_time_ms": 0.0647253951325093,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 68,
+      "score": 105,
+      "steps": 2414,
+      "avg_compute_time_ms": 0.061627299134437624,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 69,
+      "score": 40,
+      "steps": 759,
+      "avg_compute_time_ms": 0.04283675890161603,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 70,
+      "score": 106,
+      "steps": 2458,
+      "avg_compute_time_ms": 0.059519487331568116,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 71,
+      "score": 148,
+      "steps": 3689,
+      "avg_compute_time_ms": 0.07140759007982414,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 72,
+      "score": 103,
+      "steps": 2343,
+      "avg_compute_time_ms": 0.04965245412351887,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 73,
+      "score": 60,
+      "steps": 1229,
+      "avg_compute_time_ms": 0.04161855175132023,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 74,
+      "score": 136,
+      "steps": 3340,
+      "avg_compute_time_ms": 0.062298772455849076,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 75,
+      "score": 107,
+      "steps": 2261,
+      "avg_compute_time_ms": 0.059614904879650855,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 76,
+      "score": 113,
+      "steps": 2694,
+      "avg_compute_time_ms": 0.06409717888141182,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 77,
+      "score": 191,
+      "steps": 5042,
+      "avg_compute_time_ms": 0.09272290753328888,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 78,
+      "score": 87,
+      "steps": 2032,
+      "avg_compute_time_ms": 0.06136938976292937,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 79,
+      "score": 122,
+      "steps": 2763,
+      "avg_compute_time_ms": 0.05760289548267282,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 80,
+      "score": 33,
+      "steps": 590,
+      "avg_compute_time_ms": 0.03799847443094793,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 81,
+      "score": 102,
+      "steps": 2337,
+      "avg_compute_time_ms": 0.06597565256475516,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 82,
+      "score": 146,
+      "steps": 3578,
+      "avg_compute_time_ms": 0.07647867522872617,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 83,
+      "score": 60,
+      "steps": 1194,
+      "avg_compute_time_ms": 0.044558877647252616,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 84,
+      "score": 103,
+      "steps": 2541,
+      "avg_compute_time_ms": 0.07995391580599552,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 85,
+      "score": 116,
+      "steps": 2659,
+      "avg_compute_time_ms": 0.08018567129434935,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 86,
+      "score": 77,
+      "steps": 1682,
+      "avg_compute_time_ms": 0.04673555295528345,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 87,
+      "score": 96,
+      "steps": 2073,
+      "avg_compute_time_ms": 0.04491987458329821,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 88,
+      "score": 91,
+      "steps": 1976,
+      "avg_compute_time_ms": 0.0657599191333656,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 89,
+      "score": 81,
+      "steps": 2003,
+      "avg_compute_time_ms": 0.05138532199766799,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 90,
+      "score": 121,
+      "steps": 2696,
+      "avg_compute_time_ms": 0.053559087574131685,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 91,
+      "score": 143,
+      "steps": 3350,
+      "avg_compute_time_ms": 0.06655038804000021,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 92,
+      "score": 127,
+      "steps": 2991,
+      "avg_compute_time_ms": 0.06883654300784268,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 93,
+      "score": 98,
+      "steps": 2353,
+      "avg_compute_time_ms": 0.06349787498284325,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 94,
+      "score": 67,
+      "steps": 1536,
+      "avg_compute_time_ms": 0.04983600265973109,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 95,
+      "score": 109,
+      "steps": 2562,
+      "avg_compute_time_ms": 0.06789192025866239,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 96,
+      "score": 136,
+      "steps": 3551,
+      "avg_compute_time_ms": 0.08689518447496444,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 97,
+      "score": 133,
+      "steps": 3602,
+      "avg_compute_time_ms": 0.08093120492005482,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 98,
+      "score": 96,
+      "steps": 2293,
+      "avg_compute_time_ms": 0.07157575231027918,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "AStar",
+      "seed": 99,
+      "score": 102,
+      "steps": 2280,
+      "avg_compute_time_ms": 0.058026184211612736,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 0,
+      "score": 419,
+      "steps": 139368,
+      "avg_compute_time_ms": 0.015707643063081624,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 1,
+      "score": 419,
+      "steps": 141172,
+      "avg_compute_time_ms": 0.01288233997314103,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 2,
+      "score": 423,
+      "steps": 148388,
+      "avg_compute_time_ms": 0.013241214244239578,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 3,
+      "score": 418,
+      "steps": 142074,
+      "avg_compute_time_ms": 0.013098588769750683,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 4,
+      "score": 418,
+      "steps": 146584,
+      "avg_compute_time_ms": 0.016165670878021322,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 5,
+      "score": 419,
+      "steps": 137564,
+      "avg_compute_time_ms": 0.016951972906266433,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 6,
+      "score": 418,
+      "steps": 137564,
+      "avg_compute_time_ms": 0.01779432991068925,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 7,
+      "score": 419,
+      "steps": 149290,
+      "avg_compute_time_ms": 0.01748311877259148,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 8,
+      "score": 418,
+      "steps": 145682,
+      "avg_compute_time_ms": 0.017165980013521192,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 9,
+      "score": 419,
+      "steps": 143878,
+      "avg_compute_time_ms": 0.01819341662961768,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 10,
+      "score": 419,
+      "steps": 148388,
+      "avg_compute_time_ms": 0.017755380483792868,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 11,
+      "score": 419,
+      "steps": 143878,
+      "avg_compute_time_ms": 0.018298560576715334,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 12,
+      "score": 420,
+      "steps": 143878,
+      "avg_compute_time_ms": 0.01386964302745341,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 13,
+      "score": 419,
+      "steps": 142976,
+      "avg_compute_time_ms": 0.012628515979873276,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 14,
+      "score": 421,
+      "steps": 147486,
+      "avg_compute_time_ms": 0.012297454003045336,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 15,
+      "score": 421,
+      "steps": 145682,
+      "avg_compute_time_ms": 0.012670354599589383,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 16,
+      "score": 419,
+      "steps": 143878,
+      "avg_compute_time_ms": 0.012931716458517054,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 17,
+      "score": 422,
+      "steps": 141172,
+      "avg_compute_time_ms": 0.018292363919502275,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 18,
+      "score": 420,
+      "steps": 147486,
+      "avg_compute_time_ms": 0.017466900596013156,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 19,
+      "score": 420,
+      "steps": 142074,
+      "avg_compute_time_ms": 0.018138099842394992,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 20,
+      "score": 420,
+      "steps": 138466,
+      "avg_compute_time_ms": 0.01740860498692949,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 21,
+      "score": 418,
+      "steps": 141172,
+      "avg_compute_time_ms": 0.017873844673493566,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 22,
+      "score": 420,
+      "steps": 146584,
+      "avg_compute_time_ms": 0.01727299229293252,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 23,
+      "score": 422,
+      "steps": 149290,
+      "avg_compute_time_ms": 0.017274458438361295,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 24,
+      "score": 424,
+      "steps": 142074,
+      "avg_compute_time_ms": 0.017842513771127517,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 25,
+      "score": 418,
+      "steps": 153800,
+      "avg_compute_time_ms": 0.017695785434918884,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 26,
+      "score": 418,
+      "steps": 150192,
+      "avg_compute_time_ms": 0.017591279823240148,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 27,
+      "score": 419,
+      "steps": 140270,
+      "avg_compute_time_ms": 0.017291978324481695,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 28,
+      "score": 420,
+      "steps": 141172,
+      "avg_compute_time_ms": 0.017711128269374952,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 29,
+      "score": 419,
+      "steps": 142976,
+      "avg_compute_time_ms": 0.018307667014661657,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 30,
+      "score": 418,
+      "steps": 142976,
+      "avg_compute_time_ms": 0.017967350455084293,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 31,
+      "score": 418,
+      "steps": 140270,
+      "avg_compute_time_ms": 0.01789990020220586,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 32,
+      "score": 419,
+      "steps": 147486,
+      "avg_compute_time_ms": 0.017849191108432787,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 33,
+      "score": 420,
+      "steps": 145682,
+      "avg_compute_time_ms": 0.018571658147200208,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 34,
+      "score": 420,
+      "steps": 147486,
+      "avg_compute_time_ms": 0.018386598053577796,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 35,
+      "score": 418,
+      "steps": 140270,
+      "avg_compute_time_ms": 0.018433984489878426,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 36,
+      "score": 418,
+      "steps": 140270,
+      "avg_compute_time_ms": 0.017866659289845117,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 37,
+      "score": 421,
+      "steps": 143878,
+      "avg_compute_time_ms": 0.018195525370260382,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 38,
+      "score": 418,
+      "steps": 151094,
+      "avg_compute_time_ms": 0.017680146789404678,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 39,
+      "score": 421,
+      "steps": 139368,
+      "avg_compute_time_ms": 0.01807267164303751,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 40,
+      "score": 420,
+      "steps": 151996,
+      "avg_compute_time_ms": 0.01809219715340801,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 41,
+      "score": 418,
+      "steps": 145682,
+      "avg_compute_time_ms": 0.017974812967242324,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 42,
+      "score": 418,
+      "steps": 148388,
+      "avg_compute_time_ms": 0.018227440903988455,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 43,
+      "score": 419,
+      "steps": 143878,
+      "avg_compute_time_ms": 0.018167965918926443,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 44,
+      "score": 418,
+      "steps": 146584,
+      "avg_compute_time_ms": 0.01812118784902226,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 45,
+      "score": 418,
+      "steps": 140270,
+      "avg_compute_time_ms": 0.01793711556395686,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 46,
+      "score": 424,
+      "steps": 138466,
+      "avg_compute_time_ms": 0.018441323498665212,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 47,
+      "score": 420,
+      "steps": 143878,
+      "avg_compute_time_ms": 0.018239926182339165,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 48,
+      "score": 418,
+      "steps": 138466,
+      "avg_compute_time_ms": 0.018035856441955253,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 49,
+      "score": 420,
+      "steps": 151094,
+      "avg_compute_time_ms": 0.017679001153680082,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 50,
+      "score": 419,
+      "steps": 146584,
+      "avg_compute_time_ms": 0.01752546252844526,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 51,
+      "score": 418,
+      "steps": 142976,
+      "avg_compute_time_ms": 0.01772878315614394,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 52,
+      "score": 421,
+      "steps": 144780,
+      "avg_compute_time_ms": 0.018600328083252432,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 53,
+      "score": 419,
+      "steps": 142074,
+      "avg_compute_time_ms": 0.018126253212134544,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 54,
+      "score": 419,
+      "steps": 143878,
+      "avg_compute_time_ms": 0.0178452925471353,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 55,
+      "score": 420,
+      "steps": 152898,
+      "avg_compute_time_ms": 0.01784430142343178,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 56,
+      "score": 418,
+      "steps": 142976,
+      "avg_compute_time_ms": 0.018218016294877976,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 57,
+      "score": 419,
+      "steps": 146584,
+      "avg_compute_time_ms": 0.017564753311285514,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 58,
+      "score": 419,
+      "steps": 146584,
+      "avg_compute_time_ms": 0.018237362188357323,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 59,
+      "score": 420,
+      "steps": 146584,
+      "avg_compute_time_ms": 0.018334938999551208,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 60,
+      "score": 420,
+      "steps": 140270,
+      "avg_compute_time_ms": 0.017561241884961616,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 61,
+      "score": 418,
+      "steps": 148388,
+      "avg_compute_time_ms": 0.01817357806198246,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 62,
+      "score": 419,
+      "steps": 140270,
+      "avg_compute_time_ms": 0.017869018308012123,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 63,
+      "score": 420,
+      "steps": 148388,
+      "avg_compute_time_ms": 0.01773649150555287,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 64,
+      "score": 421,
+      "steps": 148388,
+      "avg_compute_time_ms": 0.018141571414420774,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 65,
+      "score": 420,
+      "steps": 151996,
+      "avg_compute_time_ms": 0.017407135060703394,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 66,
+      "score": 420,
+      "steps": 142976,
+      "avg_compute_time_ms": 0.017761725729849343,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 67,
+      "score": 418,
+      "steps": 144780,
+      "avg_compute_time_ms": 0.017495531152699702,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 68,
+      "score": 418,
+      "steps": 145682,
+      "avg_compute_time_ms": 0.017743692427643523,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 69,
+      "score": 419,
+      "steps": 148388,
+      "avg_compute_time_ms": 0.01727932581891914,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 70,
+      "score": 421,
+      "steps": 138466,
+      "avg_compute_time_ms": 0.017482548786048602,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 71,
+      "score": 418,
+      "steps": 146584,
+      "avg_compute_time_ms": 0.017548192171762216,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 72,
+      "score": 418,
+      "steps": 150192,
+      "avg_compute_time_ms": 0.017788009356254644,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 73,
+      "score": 418,
+      "steps": 142074,
+      "avg_compute_time_ms": 0.01746527232348185,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 74,
+      "score": 421,
+      "steps": 134858,
+      "avg_compute_time_ms": 0.01786830740962688,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 75,
+      "score": 419,
+      "steps": 137564,
+      "avg_compute_time_ms": 0.017625919561829555,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 76,
+      "score": 419,
+      "steps": 153800,
+      "avg_compute_time_ms": 0.017486847204070913,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 77,
+      "score": 423,
+      "steps": 142976,
+      "avg_compute_time_ms": 0.0183495922439843,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 78,
+      "score": 421,
+      "steps": 150192,
+      "avg_compute_time_ms": 0.01788364826172572,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 79,
+      "score": 421,
+      "steps": 146584,
+      "avg_compute_time_ms": 0.01755838699991419,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 80,
+      "score": 422,
+      "steps": 155604,
+      "avg_compute_time_ms": 0.01778119970725805,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 81,
+      "score": 418,
+      "steps": 138466,
+      "avg_compute_time_ms": 0.017748973767269784,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 82,
+      "score": 423,
+      "steps": 142976,
+      "avg_compute_time_ms": 0.017900053863140964,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 83,
+      "score": 418,
+      "steps": 148388,
+      "avg_compute_time_ms": 0.01802285965978244,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 84,
+      "score": 421,
+      "steps": 134858,
+      "avg_compute_time_ms": 0.018340590090986684,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 85,
+      "score": 421,
+      "steps": 140270,
+      "avg_compute_time_ms": 0.017665550726857247,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 86,
+      "score": 419,
+      "steps": 151094,
+      "avg_compute_time_ms": 0.01635781829734853,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 87,
+      "score": 422,
+      "steps": 144780,
+      "avg_compute_time_ms": 0.017767925122236804,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 88,
+      "score": 420,
+      "steps": 142074,
+      "avg_compute_time_ms": 0.017522130013203963,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 89,
+      "score": 418,
+      "steps": 145682,
+      "avg_compute_time_ms": 0.01766977526463514,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 90,
+      "score": 421,
+      "steps": 146584,
+      "avg_compute_time_ms": 0.01775486138288366,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 91,
+      "score": 419,
+      "steps": 145682,
+      "avg_compute_time_ms": 0.017543257227564737,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 92,
+      "score": 420,
+      "steps": 148388,
+      "avg_compute_time_ms": 0.017469399135892308,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 93,
+      "score": 419,
+      "steps": 142074,
+      "avg_compute_time_ms": 0.0179560123563386,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 94,
+      "score": 420,
+      "steps": 146584,
+      "avg_compute_time_ms": 0.017590065097570443,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 95,
+      "score": 418,
+      "steps": 152898,
+      "avg_compute_time_ms": 0.017921747839092488,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 96,
+      "score": 422,
+      "steps": 147486,
+      "avg_compute_time_ms": 0.017991030339456683,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 97,
+      "score": 419,
+      "steps": 143878,
+      "avg_compute_time_ms": 0.017704313395532592,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 98,
+      "score": 420,
+      "steps": 146584,
+      "avg_compute_time_ms": 0.017708622358888537,
+      "max_steps_reached": false
+    },
+    {
+      "controller_name": "Wander",
+      "seed": 99,
+      "score": 420,
+      "steps": 144780,
+      "avg_compute_time_ms": 0.01776401642996345,
+      "max_steps_reached": false
+    }
+  ],
+  "stats": [
+    {
+      "controller_name": "Drunk",
+      "num_games": 100,
+      "avg_score": 3.78,
+      "max_score": 7,
+      "min_score": 2,
+      "avg_steps": 5394.53,
+      "avg_compute_time_ms": 0.0020011076803428877,
+      "timeout_rate": 0.0
+    },
+    {
+      "controller_name": "Greedy",
+      "num_games": 100,
+      "avg_score": 41.94,
+      "max_score": 77,
+      "min_score": 10,
+      "avg_steps": 925.96,
+      "avg_compute_time_ms": 0.0036828419255564315,
+      "timeout_rate": 0.0
+    },
+    {
+      "controller_name": "BFS",
+      "num_games": 100,
+      "avg_score": 109.4,
+      "max_score": 175,
+      "min_score": 36,
+      "avg_steps": 2554.32,
+      "avg_compute_time_ms": 0.1415964945810223,
+      "timeout_rate": 0.0
+    },
+    {
+      "controller_name": "Flood",
+      "num_games": 100,
+      "avg_score": 107.28,
+      "max_score": 190,
+      "min_score": 36,
+      "avg_steps": 2520.13,
+      "avg_compute_time_ms": 0.1814856411917257,
+      "timeout_rate": 0.0
+    },
+    {
+      "controller_name": "AStar",
+      "num_games": 100,
+      "avg_score": 101.8,
+      "max_score": 191,
+      "min_score": 26,
+      "avg_steps": 2397.86,
+      "avg_compute_time_ms": 0.06496420810915207,
+      "timeout_rate": 0.0
+    },
+    {
+      "controller_name": "Wander",
+      "num_games": 100,
+      "avg_score": 419.56,
+      "max_score": 424,
+      "min_score": 418,
+      "avg_steps": 144798.04,
+      "avg_compute_time_ms": 0.017395757603634123,
+      "timeout_rate": 0.0
+    }
+  ],
+  "config": {
+    "grid_size": 30,
+    "num_games_per_controller": 100,
+    "max_steps": null,
+    "seed_offset": 0
+  }
+}

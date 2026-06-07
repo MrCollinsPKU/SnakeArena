@@ -2,7 +2,6 @@ import pygame
 import sys
 from game import Game
 from ui import render_game
-import config
 import random
 import time
 from dataclasses import dataclass
@@ -13,7 +12,9 @@ class GameResult:
     steps: int
     avg_compute_time_ms: float  # ms
 
-def run_game(ctrl, grid_size, screen=None, clock=None, seed=None, max_steps=100000):
+def run_game(ctrl, grid_size, screen=None, clock=None, seed=None, max_steps=100000, ctrl_name=None, logic_fps=120, render_fps=60):
+    if ctrl_name is None:
+        ctrl_name = ctrl.name
     if seed is not None:
         random.seed(seed)
     
@@ -22,10 +23,10 @@ def run_game(ctrl, grid_size, screen=None, clock=None, seed=None, max_steps=1000
     
     step_count, total_compute_time, render_mode = 0, 0.0, (screen is not None)
     if render_mode:
-        render_count, render_term = 0, max(1, config.LOGIC_FPS//config.RENDER_FPS) 
+        render_count, render_term = 0, max(1, logic_fps // render_fps) 
 
 
-    while not game.game_over and step_count < max_steps:
+    while not game.game_over and (step_count < max_steps if max_steps is not None else True):
         
         events = pygame.event.get() if render_mode else []
 
@@ -46,15 +47,17 @@ def run_game(ctrl, grid_size, screen=None, clock=None, seed=None, max_steps=1000
                     pygame.quit()
                     sys.exit()
                     break
-                if event.type == pygame.KEYDOWN and event.key == pygame.K_r:
-                    game.reset_game()
+                elif event.type == pygame.KEYDOWN and event.key == pygame.K_r:
+                    return "RESTART"
+                elif event.type == pygame.KEYDOWN and event.key == pygame.K_m:
+                    return "MENU"
             
             ''' Render '''
             if render_count % render_term == 0:
-                render_game(screen, game, grid_size)
+                render_game(screen, game, grid_size, ctrl_name)
 
             render_count = (render_count + 1) % render_term
-            clock.tick(config.LOGIC_FPS)
+            clock.tick(logic_fps)
     
     return GameResult(
         score = game.get_score(),

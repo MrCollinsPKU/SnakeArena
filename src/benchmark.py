@@ -1,25 +1,37 @@
 import json
 import csv
+import sys
 import time
 from pathlib import Path
 from dataclasses import dataclass, asdict
 from typing import List, Type, Union
 
-from controller import BFSController, GreedyController, DrunkController
+from controller import BFSController, GreedyController, DrunkController, AStarController, FloodFillController, LookaheadController, WanderController
 from runner import run_game
-import config
 
 '''============================ CONFIGURATIONS ==============================='''
 NUM_GAMES_PER_CONTROLLER = 100
-GRID_SIZE = 30
-MAX_STEPS = 10000                   # max steps for each game
+GRID_SIZE = int(sys.argv[1]) if len(sys.argv) > 1 else 30
+MAX_STEPS = None                   # max steps for each game
 SEED_OFFSET = 0                     # for game_i, seed = SEED_OFFSET + i
 RESULTS_DIR = Path(__file__).parent.parent / "results"
 RESULTS_DIR.mkdir(exist_ok=True)
 CONTROLLERS = [
-    ("Drunk", DrunkController),
-    ("Greedy", GreedyController),
-    ("BFS", BFSController),
+    ("Drunk", lambda: DrunkController()),
+    ("Greedy", lambda: GreedyController()),
+    ("BFS", lambda: BFSController()),
+    #("BFS-Rot", lambda: BFSController("rotate")),
+    #("BFS-PerNode", lambda: BFSController("per_node")),
+    #("BFS-NoShuf", lambda: BFSController("no_shuffle")),
+    ("Flood", lambda: FloodFillController()), # default warn_rate = 0.6
+    #("Flood-1", lambda: FloodFillController(warn_rate=1)),
+    #("Flood-0.8", lambda: FloodFillController(warn_rate=0.8)),
+    #("Flood-0.6", lambda: FloodFillController(warn_rate=0.6)),
+    #("Flood-0.4", lambda: FloodFillController(warn_rate=0.4)),
+    #("Flood-0.2", lambda: FloodFillController(warn_rate=0.2)),
+    #("Lookahead", lambda: LookaheadController()),
+    ("AStar", lambda: AStarController()),
+    ("Wander", lambda: WanderController()),
 ]
 
 '''============================ DATA STRUCTURES =============================='''
@@ -45,7 +57,7 @@ class ControllerStats: # record for each controller
 
 
 '''=============================== FUNCTIONS ================================'''
-def run_controller(controller_class: Type, controller_name: str, num_games: int, max_steps: int, seed_offset: int = 0) -> List[GameRecord]:
+def run_controller(controller_factory, controller_name: str, num_games: int, max_steps: int, seed_offset: int = 0) -> List[GameRecord]:
     """
     Run games with a certain controller.
     output: List[GameRecord]
@@ -55,12 +67,12 @@ def run_controller(controller_class: Type, controller_name: str, num_games: int,
 
     for i in range(num_games):
         seed = i + seed_offset
-        ctrl = controller_class() # instantiate a new controller for each game
+        ctrl = controller_factory() # instantiate a new controller for each game
 
         game_result = run_game(ctrl, grid_size=GRID_SIZE, screen=None, seed=seed, max_steps=max_steps)
 
         score, steps, avg_compute_time_ms = game_result.score, game_result.steps, game_result.avg_compute_time_ms
-        max_steps_reached = (steps >= max_steps)
+        max_steps_reached = (steps >= max_steps) if max_steps is not None else False
 
         records.append(GameRecord(
             controller_name = controller_name,
@@ -144,9 +156,9 @@ def main():
     all_records = []
     stats_list = []
     
-    for name, ctrl_class in CONTROLLERS:
-        print(f"\nRunning {name}Controller... ({NUM_GAMES_PER_CONTROLLER} games)")
-        records = run_controller(ctrl_class, name, NUM_GAMES_PER_CONTROLLER, MAX_STEPS, SEED_OFFSET)
+    for name, ctrl_factory in CONTROLLERS:
+        print(f"\nRunning {name}... ({NUM_GAMES_PER_CONTROLLER} games)")
+        records = run_controller(ctrl_factory, name, NUM_GAMES_PER_CONTROLLER, MAX_STEPS, SEED_OFFSET)
         all_records.extend(records)
         stats = compute_stats(records)
         stats_list.append(stats)

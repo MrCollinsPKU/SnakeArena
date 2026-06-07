@@ -1,12 +1,11 @@
 ''' class Game: single-snake game logic '''
 import random
 from snake import Snake
-import config
 from dataclasses import dataclass
 
 @dataclass
 class GameState:
-    snake: list[tuple[int, int]]
+    snake: Snake
     food_pos: tuple[int, int] | None
     grid_size: int
     score: int
@@ -28,7 +27,7 @@ class Game:
         # Snake starts near the center, moving right
         start_row = self.grid_size // 2
         start_col = self.grid_size // 2
-        self.snake = Snake((start_row, start_col), config.DIR_RIGHT, self.grid_size)
+        self.snake = Snake((start_row, start_col), (0,1), self.grid_size)
         self.food_pos = self._random_food_position()
         self.game_over = False
         self.score = 0
