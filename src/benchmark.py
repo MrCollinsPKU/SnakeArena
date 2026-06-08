@@ -1,7 +1,4 @@
-import json
-import csv
-import sys
-import time
+import json, csv, sys, time
 from pathlib import Path
 from dataclasses import dataclass, asdict
 from typing import List, Type, Union

@@ -10,9 +10,40 @@ INFO_BAR_HEIGHT = WINDOW_HEIGHT - GAME_AREA_SIZE
 
 # Colors (R, G, B)
 
+# Purple & Gold
 COLOR_THEME_A       = (200, 180, 255)
 COLOR_THEME_B       = (255, 200, 100)
 COLOR_BG            = (20, 20, 30)
+
+# Synthwave
+#COLOR_THEME_A = (255, 50, 150)
+#COLOR_THEME_B = (0, 230, 255)
+#COLOR_BG = (20, 10, 30)
+
+# Retro Console — aged yellowed plastic
+#COLOR_THEME_A = (180, 175, 120)
+#COLOR_THEME_B = (200, 190, 100)
+#COLOR_BG = (195, 192, 185)
+
+# Retro Terminal
+#COLOR_THEME_A = (0, 255, 65)
+#COLOR_THEME_B = (255, 255, 85)
+#COLOR_BG = (10, 10, 10)
+
+# Firewatch
+#COLOR_THEME_A = (255, 140, 50)
+#COLOR_THEME_B = (255, 210, 80)
+#COLOR_BG = (30, 20, 15)
+
+# Ocean
+#COLOR_THEME_A = (80, 200, 220)
+#COLOR_THEME_B = (255, 220, 80)
+#COLOR_BG = (10, 20, 35)
+
+# Monochrome
+#COLOR_THEME_A = (200, 200, 200)
+#COLOR_THEME_B = (255, 255, 255)
+#COLOR_BG = (15, 15, 15)
 
 COLOR_TITLE         = COLOR_THEME_A
 COLOR_TEXT          = (200, 200, 200)

@@ -23,18 +23,22 @@
 
 ```
 snake_arena/
+├── algo_explanation/
+│   └── *.md                    # 开发思路（AI生成）
 ├── assets/
 │   └── fonts/
-│       └── T.ttf
+│       └── *.ttf
+├── report/
+│   └── *.md                    # 开发报告（AI生成）
 ├── results/                    # 测试结果文件
 │   ├── benchmark_*.csv
 │   └── benchmark_*.json
 ├── src/
 │   ├── benchmark.py            # 【测试脚本】入口
-│   ├── config.py               # 全局配置（窗口大小、帧率等）
 │   ├── controller.py           # 控制器基类及多种具体控制器算法
 │   ├── game.py                 # 游戏逻辑（蛇更新、食物更新、碰撞检测等）
 │   ├── main.py                 # 【渲染模式】入口
+│   ├── run_all_sizes.py        # 针对 WanderController 在不同格子大小下表现的特别测试脚本
 │   ├── runner.py               # 单局游戏运行函数
 │   ├── snake.py                # 蛇类（身体位置分布等）
 │   └── ui.py                   # 绘图函数（网格、蛇、食物、文字等）
@@ -42,6 +46,15 @@ snake_arena/
 ```
 
 ---
+
+### 渲染模式
+带有 GUI 的贪吃蛇游戏，可在初始菜单选择游戏参数
+
+```
+SnakeArena/src/main.py
+```
+
+可以选择 Human 控制器，自行游玩；也可以选择其他自动控制器，观察结果
 
 ### 测试脚本
 
@@ -110,20 +123,6 @@ class MyController(Controller):
 - `get_valid_dir(self, game_state)`：返回所有可行方向的列表
 - `bold_react(self, game_state, target)`：从可行方向中返回最靠近 `target` 的方向
 
----
-
-### 配置说明
-
-在 `config.py` 中可以调整：
-
-- `GRID_SIZE`：网格边长
-- `LOGIC_FPS`：逻辑帧率
-- `RENDER_FPS`：渲染帧率
-- `INITIAL_LEN`：初始蛇长
-
-> 无头模式下 `LOGIC_FPS` 不生效，游戏以最快速度运行。
-
----
 
 ### 开发日志
 
@@ -141,7 +140,6 @@ class MyController(Controller):
     - 对策略进行评估，加入 `BFS_Benchmark_Report.md`
 - 加入 `AStarController`, `FloodFillController`, `LookaheadController`
     - 对 `FloodFillController` 的 `warn_rate` 参数进行测试，加入 `FloodFill_Report.md`
-
 
 #### v0.2.1_2026-05-14
 - 更新 UI，加入信息栏
