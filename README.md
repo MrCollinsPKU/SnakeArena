@@ -14,6 +14,10 @@
 	- `DrunkController`：随机选择可行方向
 	- `GreedyController`：选择最靠近食物的可行方向
 	- `BFSController`：BFS 寻路策略
+    - `AStarController`：A* 寻路策略
+    - `FloodFillController`: 加入 Flood-fill 安全限制的 BFS 寻路策略
+    - `LoodAheadController`: 失败的项目——贪吃蛇不适合 Look-ahead 算法
+    - `WanderController`: 总是走向最早上一次访问的格子，在不同大小的场地下表现不稳定
 - 提供展示游戏进程的【渲染模式】与可用于批量测试的【无头模式】
 - 【测试脚本】导出 JSON / CSV 文件，可统计 AI 算法的平均分、每步计算耗时等数据
 
@@ -38,7 +42,7 @@ snake_arena/
 │   ├── controller.py           # 控制器基类及多种具体控制器算法
 │   ├── game.py                 # 游戏逻辑（蛇更新、食物更新、碰撞检测等）
 │   ├── main.py                 # 【渲染模式】入口
-│   ├── run_all_sizes.py        # 针对 WanderController 在不同格子大小下表现的特别测试脚本
+│   ├── run_all_sizes.py        # 针对 WanderController 在不同场地大小下表现的特别测试脚本
 │   ├── runner.py               # 单局游戏运行函数
 │   ├── snake.py                # 蛇类（身体位置分布等）
 │   └── ui.py                   # 绘图函数（网格、蛇、食物、文字等）
@@ -64,7 +68,7 @@ SnakeArena/src/main.py
 SnakeArena/src/benchmark.py
 ```
 
-输出示例：
+控制台输出示例：
 
 ```text
 Running DrunkController... (100 games)
@@ -93,6 +97,8 @@ Greedy     | avg_score:   41.9 | max_score:  77 | avg_compute_time_ms:  0.004
 BFS        | avg_score:  102.6 | max_score: 177 | avg_compute_time_ms:  0.299
 ```
 
+同时脚本会将结果文件（*.json, *.csv）保存在 `SnakeArena/results` 目录下
+
 结果文件包含每局详细记录（随机种子、分数、步数等），以及控制器汇总统计。
 
 可通过编辑 `benchmark.py` 中的配置自定义测试脚本：
@@ -107,16 +113,26 @@ BFS        | avg_score:  102.6 | max_score: 177 | avg_compute_time_ms:  0.299
 
 ### 模块化控制器的开发
 
-所有控制器需继承 `controller.py` 中的 `Controller` 类并定义 `react(self, game_state, events)` 函数：
+所有控制器需继承 `controller.py` 中的 `Controller` 类并定义 `react(self, game_state, events)` 函数
+
+通过 `self.params` 定义控制器实例化时需要的参数，便可以在【渲染模式】的初始菜单中选择参数并传参
 
 ```python
 class MyController(Controller):
+    params = [
+    {"key": "para_1", "label": "Para_1", "type": "choice",
+        "options": ["A", "B", "C", "D"]},
+    ]
+    def __init__(self, para_1):
+        pass
+
     def react(self, game_state, events):
         # game_state 定义详见 game.py
         # events 为 Pygame 事件列表（无头模式下为空列表）
         # 返回移动方向 (dr, dc) \in \{(1,0), (-1,0), (0,1), (0,-1)\}
         return (0, 1)
 ```
+
 完成后就即可选择自己的控制器操控贪吃蛇
 
 `Controller` 类中也给出了若干辅助函数，如：
@@ -131,8 +147,8 @@ class MyController(Controller):
 - 统一调整视觉风格
 
 #### v0.3.1_2026-06-05
-- 加入 `LookaheadController`, `WanderController`, `LookaheadController`
-    - 对 `FloodFillController` 的 `warn_rate` 参数进行测试，加入 `FloodFill_Report.md`
+- 加入 `WanderController`
+    - 对其在不同场地大小下的表现进行测试，加入 `Wander_Benchmark.md`
 
 #### v0.3.0_2026-06-04
 - 更新 `BFSController`
