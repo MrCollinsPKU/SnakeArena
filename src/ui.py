@@ -132,14 +132,22 @@ def draw_info_bar(screen, game, bar_x, bar_y, bar_width, bar_height, ctrl_name="
     game_state = game.get_state()
 
     font = get_font("PressStart2P-Regular", 14)
+
+    # game state
     for i, line in enumerate([f'Score: {game_state.score}',
                               f'Steps: {game_state.steps}',
-                              f'AI: {ctrl_name}',
-                              f'[R] Restart game',
-                              f'[M] Restart from menu']):
-        surf = font.render(line, True, COLOR_TEXT if i < 3 else COLOR_INSTRUCTION)
+                              f'AI: {ctrl_name}']):
+        surf = font.render(line, True, COLOR_TEXT)
         screen.blit(surf, ((bar_x + 20,
                             bar_y + 20 + 25 * i)))
+    
+    # instruction
+    for i, text in enumerate(reversed(["[R] Restart game",
+                                       "[M] Restart from menu"])):
+            instruction = font.render(text, True, COLOR_INSTRUCTION)
+            screen.blit(instruction, (bar_x + 20,
+                                      WINDOW_HEIGHT - 10 - 25 * (i+1)))
+    
 
 def draw_text(screen, text, font_name, x, y, size=24, color=COLOR_TEXT):
     """Draw text on screen."""
@@ -222,22 +230,19 @@ def run_menu(screen, controller_registry):
         text_font = get_font("PressStart2P-Regular", 14)
 
         # Start fields about a third down the tall window
-        y = 200
         for i, field in enumerate(display_fields):
             color = COLOR_SELECTED if i == selected else COLOR_UNSELECTED
 
             cursor = text_font.render(f"{"> " if i == selected else "  "}", True, color)
-            screen.blit(cursor, (30, y))
+            screen.blit(cursor, (30, 200 + 45 * i))
 
             label = text_font.render(f"{field['label']}", True, color)
-            screen.blit(label, (60, y))
+            screen.blit(label, (60, 200 + 45 * i))
 
             value_str = str(field["value"])
             val_surf = text_font.render(value_str, True, COLOR_VALUE)
             val_x = WINDOW_WIDTH - val_surf.get_width() - 60
-            screen.blit(val_surf, (val_x, y))
-
-            y += 45
+            screen.blit(val_surf, (val_x, 200 + 45 * i))
 
         # Instructions at the bottom
         for i, text in enumerate(reversed(["[UP/DOWN]: Navigate",

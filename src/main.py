@@ -1,9 +1,6 @@
 import pygame
 import sys
-from controller import (make_controller, CONTROLLER_REGISTRY,
-                        HumanController, DrunkController, GreedyController,
-                        BFSController, AStarController, FloodFillController,
-                        LookaheadController, WanderController)
+from controller import (make_controller, CONTROLLER_REGISTRY)
 from ui import init_screen, draw_game_over, run_menu
 from runner import run_game
 
@@ -15,6 +12,7 @@ def main():
         ctrl = make_controller(config)
 
         while True:
+            print(f"SnakeArena — {config['controller']} on {config['grid_size']}×{config['grid_size']}")
             ''' Run game '''
             clock = pygame.time.Clock()
             game_result = run_game(ctrl, screen=screen, clock=clock,

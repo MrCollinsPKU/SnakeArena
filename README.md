@@ -4,6 +4,23 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)![Pygame|90](https://img.shields.io/badge/Pygame-2.0%2B-green)
 
+### 安装依赖
+
+项目需要 2.0 版本以上的 PyGame 库
+
+```bash
+
+# 安装依赖：pygame>=2.0
+pip install -r requirements.txt 
+
+# 渲染模式
+python src/main.py
+
+# 测试脚本（测试内容需在源代码中自行配置）
+python src/benchmark.py
+
+```
+
 ---
 
 ### 基本功能
@@ -27,15 +44,17 @@
 
 ```
 snake_arena/
-├── algo_explanation/
-│   └── *.md                    # 开发思路（AI生成）
+
 ├── assets/
 │   └── fonts/
 │       └── *.ttf
-├── report/
-│   └── *.md                    # 开发报告（AI生成）
+├── docs/
+│   ├── algo_explanation/       # 算法思路（AI生成）
+│   │   └── *.md                
+│   └── report/                 # 结果报告（AI生成）
+│       └── *.md                
 ├── results/                    # 测试结果文件
-│   ├── benchmark_*.csv
+│   ├── benchmark_*.csv         
 │   └── benchmark_*.json
 ├── src/
 │   ├── benchmark.py            # 【测试脚本】入口
@@ -46,6 +65,8 @@ snake_arena/
 │   ├── runner.py               # 单局游戏运行函数
 │   ├── snake.py                # 蛇类（身体位置分布等）
 │   └── ui.py                   # 绘图函数（网格、蛇、食物、文字等）
+├── LICENSE
+├── play.bat                    # 双击即开始的【渲染模式】入口
 └── README.md
 ```
 
@@ -54,9 +75,11 @@ snake_arena/
 ### 渲染模式
 带有 GUI 的贪吃蛇游戏，可在初始菜单选择游戏参数
 
+``` bash
+python src/main.py
 ```
-SnakeArena/src/main.py
-```
+
+或者双击运行项目根目录中的 `play.bat`
 
 可以选择 Human 控制器，自行游玩；也可以选择其他自动控制器，观察结果
 
@@ -64,8 +87,8 @@ SnakeArena/src/main.py
 
 对多种控制器进行批量无头测试，统计平均分、每步耗时等数据
 
-```
-SnakeArena/src/benchmark.py
+``` bash
+python src/benchmark.py
 ```
 
 控制台输出示例：
@@ -139,8 +162,13 @@ class MyController(Controller):
 - `get_valid_dir(self, game_state)`：返回所有可行方向的列表
 - `bold_react(self, game_state, target)`：从可行方向中返回最靠近 `target` 的方向
 
+---
 
 ### 开发日志
+
+#### v1.0.1_2026-06-14
+- 完善 `play.bat`, `LICENSE`, `requirements.txt`
+- 修改 `ui.py` 的一些运行逻辑
 
 #### v1.0.0_2026-06-07
 - 加入初始菜单
@@ -172,3 +200,14 @@ class MyController(Controller):
 - 单人游戏基本逻辑架构
 - 实现模块化 `Controller`，加入`HumanController`，`DrunkController`，`GreedyController`
 - 实现基于 Pygame 的游戏渲染界面
+
+---
+
+### AI 工具声明
+
+本项目利用接入 DeepseekAPI 的 Reasonix AI 代码工具完成了：
+- Lookahead 等复杂算法的样例
+- 蛇类数据结构的设计
+- 测试脚本的撰写
+- 代码的工程规范化
+- 算法解释文档及结果报告的撰写

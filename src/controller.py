@@ -297,7 +297,7 @@ class AStarController(Controller):
 class LookaheadController(Controller):
     """Simulates N moves ahead and picks the best path.
     depth: how many steps to look ahead (default 4)
-    beam_width: if set, only keep top K paths per depth (default None = full tree)
+    beam_width: only keep top K paths per depth (default deep every path)
     """
     params = [
         {"key": "depth", "label": "Depth", "type": "choice",

@@ -28,7 +28,7 @@ CONTROLLERS = [
     #("Flood-0.2", lambda: FloodFillController(warn_rate=0.2)),
     #("Lookahead", lambda: LookaheadController()),
     ("AStar", lambda: AStarController()),
-    ("Wander", lambda: WanderController()),
+    #("Wander", lambda: WanderController()),
 ]
 
 '''============================ DATA STRUCTURES =============================='''
