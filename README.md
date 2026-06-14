@@ -4,9 +4,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)![Pygame|90](https://img.shields.io/badge/Pygame-2.0%2B-green)
 
-### 安装依赖
+---
 
-项目需要 2.0 版本以上的 PyGame 库
+### 快速开始
 
 ```bash
 
