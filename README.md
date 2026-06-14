@@ -83,6 +83,8 @@ python src/main.py
 
 可以选择 Human 控制器，自行游玩；也可以选择其他自动控制器，观察结果
 
+![[assets\README_images\GUI.png]]
+
 ---
 
 ### 测试脚本
